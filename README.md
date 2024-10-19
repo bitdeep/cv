@@ -4,7 +4,8 @@
 **LinkedIn**: [linkedin.com/in/wendelrpereira](https://www.linkedin.com/in/wendelrpereira/)  
 **Telegram**: [@bitdeep](https://t.me/bitdeep)  
 **Twitter**: [@bitdeep_oficial](https://twitter.com/bitdeep_oficial)  
-**Discord**: **bitdeep**
+**Discord**: **bitdeep**  
+**GitHub**: [github.com/bitdeep](https://github.com/bitdeep)
 
 ---
 
@@ -30,23 +31,26 @@ So far, until today, no protocol has been hacked as I’m very careful with Soli
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Expertise
 
 ### 💡 Smart Contract Development
 
 - Developed smart contracts for **DeFi protocols**, DEXs, betting platforms, and decentralized exchanges
 - Implemented complex interactions like **flash loans** and **atomic swaps**
+- Created presale, airdrop, and farming contracts with advanced features
+- Designed NFT auction and raffle systems
+- Developed DAO and treasury management contracts
 - Applied security best practices: **reentrancy guards**, **access control mechanisms**
 - Conducted thorough **unit and integration testing**
 - Optimized for **gas efficiency** and scalability
 - Stayed current with latest **Solidity** features and best practices
-- Collaborated with cross-functional teams
 
 **🏗 Key Projects:**
-- **Decentralized lending protocol**
-- **Decentralized exchange**
-- **Layer 2 scaling solution** bridge to Ethereum mainnet
-- **Decentralized governance system**
+- **Decentralized lending protocols**
+- **Decentralized exchanges** (including work on SushiSwap)
+- **Layer 2 scaling solutions** and bridges to Ethereum mainnet
+- **Decentralized governance systems**
+- **NFT marketplaces and gaming platforms**
 
 ### 🔗 Bitcoin Development
 
@@ -58,9 +62,18 @@ So far, until today, no protocol has been hacked as I’m very careful with Soli
 
 ### 💻 Programming Languages & Technologies
 
-- **TypeScript**, **JavaScript**, **Node.js**
-- **C/C++**: Extensive experience in telecom/VoIP services
+- **Solidity**: Expert-level smart contract development
+- **TypeScript**, **JavaScript**, **Node.js**: Full-stack Web3 development
+- **React**: Frontend development for DApps
+- **C/C++**: Extensive experience in blockchain core development and VoIP services
 - **Golang**: Proficient for scalable and secure blockchain solutions
+
+### 🤖 AI and Blockchain Integration
+
+- Developed an **AI-powered auditing system** for smart contract analysis
+- Created tools for fine-tuning GPT models for blockchain-specific tasks
+- Implemented RAG-based document chatting systems for blockchain documentation
+- Integrated AI capabilities with DeFi protocols for enhanced security and user experience
 
 ### 📞 VoIP Services Experience
 
@@ -107,6 +120,14 @@ So far, until today, no protocol has been hacked as I’m very careful with Soli
 ## Blockchain Protocols
 
 Experience with **Layer 0**, **Arbitrum**, and other protocols.
+
+---
+
+## Open Source Contributions
+
+- Actively maintain 67 public repositories on GitHub
+- Contribute to major DeFi projects like SushiSwap and Abracadabra Money
+- Develop and share utilities for blockchain interactions and Web3 development
 
 ---
 
