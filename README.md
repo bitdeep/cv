@@ -122,17 +122,34 @@ Experience with **Layer 0**, **Arbitrum**, and other protocols.
 - Created a sophisticated backend system to support AI-driven contract auditing, enhancing security in DeFi projects.
 - Implemented advanced anti-snipe bot features in smart contracts, leveraging AI to detect and prevent malicious activities.
 
-### Telegram and Discord Bot Development
+### Telegram Bot Development
 
-- Designed and built **custom Telegram bots** for crypto communities, providing real-time market data, wallet tracking, and automated support.
-- Developed **Discord bots** for DeFi projects, facilitating user engagement, token distribution, and community management.
-- Integrated AI-powered natural language processing to enhance bot interactions and provide more intuitive user experiences.
-- Created bots capable of executing on-chain transactions based on user commands, bridging the gap between messaging platforms and blockchain interactions.
+- Designed and built **custom Telegram bots** for crypto communities.
+- Implemented bots providing real-time market data, wallet tracking, and automated support.
 
-### Cross-Platform Integration
+### Discord Bot Development
 
-- Implemented cross-platform solutions that synchronized data and functionality between Telegram, Discord, and web interfaces.
-- Developed secure authentication systems for bots, ensuring user data protection and preventing unauthorized access to sensitive functions.
+- Developed **Discord bots** for DeFi projects.
+- Created bots facilitating user engagement, token distribution, and community management.
+
+### AI-Enhanced Interactions
+
+- Integrated AI-powered natural language processing to enhance bot interactions.
+- Provided more intuitive user experiences through AI capabilities.
+
+### Blockchain Integration
+
+- Created bots capable of executing on-chain transactions based on user commands.
+- Bridged the gap between messaging platforms and blockchain interactions.
+
+### Cross-Platform Solutions
+
+- Implemented solutions that synchronized data and functionality between Telegram, Discord, and web interfaces.
+
+### Security
+
+- Developed secure authentication systems for bots.
+- Ensured user data protection and prevented unauthorized access to sensitive functions.
 
 ---
 
