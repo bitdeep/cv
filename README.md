@@ -114,6 +114,28 @@ Experience with **Layer 0**, **Arbitrum**, and other protocols.
 
 ---
 
+## AI and Messaging Platform Integration
+
+### AI-Powered Bots and DeFi Integration
+
+- Developed an **AI-powered auditing system** for the **$NAAI protocol**, integrating AI capabilities with smart contract analysis.
+- Created a sophisticated backend system to support AI-driven contract auditing, enhancing security in DeFi projects.
+- Implemented advanced anti-snipe bot features in smart contracts, leveraging AI to detect and prevent malicious activities.
+
+### Telegram and Discord Bot Development
+
+- Designed and built **custom Telegram bots** for crypto communities, providing real-time market data, wallet tracking, and automated support.
+- Developed **Discord bots** for DeFi projects, facilitating user engagement, token distribution, and community management.
+- Integrated AI-powered natural language processing to enhance bot interactions and provide more intuitive user experiences.
+- Created bots capable of executing on-chain transactions based on user commands, bridging the gap between messaging platforms and blockchain interactions.
+
+### Cross-Platform Integration
+
+- Implemented cross-platform solutions that synchronized data and functionality between Telegram, Discord, and web interfaces.
+- Developed secure authentication systems for bots, ensuring user data protection and preventing unauthorized access to sensitive functions.
+
+---
+
 ## Professional Experience
 
 ### Camelot.exchange
