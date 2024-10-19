@@ -1,11 +1,13 @@
 # Wendel Pereira
 
-**Email**: [as2742397@gmail.com](mailto:as2742397@gmail.com)  
-**LinkedIn**: [linkedin.com/in/wendelrpereira](https://www.linkedin.com/in/wendelrpereira/)  
-**Telegram**: [@bitdeep](https://t.me/bitdeep)  
-**Twitter**: [@bitdeep_oficial](https://twitter.com/bitdeep_oficial)  
-**Discord**: **bitdeep**  
-**GitHub**: [github.com/bitdeep](https://github.com/bitdeep)
+- **Email**: [as2742397@gmail.com](mailto:as2742397@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/wendelrpereira](https://www.linkedin.com/in/wendelrpereira/)  
+- **Telegram**: [@bitdeep](https://t.me/bitdeep)  
+- **Twitter**: [@bitdeep_oficial](https://x.com/bitdeep_)  
+- **Discord**: **bitdeep**  
+- **GitHub**: [github.com/bitdeep](https://github.com/bitdeep)
+- **Zangi Link**: [1038908586](https://services.zangi.com/dl/conversation/1038908586)
+
 
 ---
 
