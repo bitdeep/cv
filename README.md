@@ -1,41 +1,131 @@
-# Wendel Pereira
+## 🌟 My Dream
 
-- **Email**: [as2742397@gmail.com](mailto:as2742397@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/wendelrpereira](https://www.linkedin.com/in/wendelrpereira/)  
-- **Telegram**: [@bitdeep](https://t.me/bitdeep)  
-- **Twitter**: [@bitdeep_oficial](https://x.com/bitdeep_)  
-- **Discord**: **bitdeep**  
-- **GitHub**: [github.com/bitdeep](https://github.com/bitdeep)
-- **Zangi Link**: [1038908586](https://services.zangi.com/dl/conversation/1038908586)
+<div align="center">
+  <img src="https://img.shields.io/badge/Goal-$1B%20TVL-gold?style=for-the-badge&logo=ethereum" alt="$1B TVL Goal">
+</div>
+
+_Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked** 💎_
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Vision-Blockchain%20Innovation-blue?style=flat-square&logo=blockchain.com" alt="Blockchain Innovation">
+  <img src="https://img.shields.io/badge/Mission-DeFi%20Revolution-green?style=flat-square&logo=bitcoin" alt="DeFi Revolution">
+  <img src="https://img.shields.io/badge/Passion-Smart%20Contracts-red?style=flat-square&logo=solidity" alt="Smart Contracts">
+</div>
 
 
----
+# Conctact
 
-## My Dream
+- 📧 **Email**: [as2742397@gmail.com](mailto:as2742397@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/wendelrpereira](https://www.linkedin.com/in/wendelrpereira/)  
+- 📱 **Telegram**: [@bitdeep](https://t.me/bitdeep)  
+- 🐦 **Twitter**: [@bitdeep_oficial](https://x.com/bitdeep_)  
+- 💬 **Discord**: **bitdeep**  
+- 🐙 **GitHub**: [github.com/bitdeep](https://github.com/bitdeep)
+- 🔗 **Zangi Link**: [1038908586](https://services.zangi.com/dl/conversation/1038908586)
+- 🔐 **Keybase**: [bitdeep](https://keybase.io/bitdeep)
+- 🎮 **Discord**: [bitdeep](https://discord.com/users/bitdeep)
 
-_Having a **$1B protocol TVL** that I at least helped to code._
 
----
-
-## Summary
-
-I’m an already seasoned blockchain developer with a deep understanding of smart contract and Bitcoin development as I’m in the field since the **“colored coins”** and **“masternode”** revolution, even before _The Pandemic_.
-
-My involvement in blockchain technology predates Ethereum. In the early days of Bitcoin, I was an active participant in the Bitcoin forum, contributing my expertise in **C++/QT** development. I assisted teams working on masternodes and privacy coins, as these applications were primarily built using **C++/QT** at that time as I had lots of experience in **C++** from my telecom background.
-
-After masternodes and privacy coins fallout, I moved to **EVM** during **SUSHI DEX** rise up, helping here and then, assisting teams in the farming era.
-
-Right now, my focus is more on **decentralized finance (DeFi)**, working on new edge protocol deployments on EVM chains, especially on **Cosmos/EVM protocols**.
-
-Also, sometimes, I integrate **AI and DeFi**, like the **[$NAAI protocol](https://etherscan.io/token/0x7865ec47bef9823ad0010c4970ed90a5e8107e53#code)**, where I created their entire backend for an "AI auditing contract" solution and coded their smart contract with some nice anti-snipe bot features.
-
-So far, until today, no protocol has been hacked as I’m very careful with Solidity coding and ensure **full test coverage** and I never deploy a protocol without full testing it with test-cases.
 
 ---
 
-## 🛠 Skills & Expertise
+## 🚀 Summary: A Journey Through Blockchain Evolution
 
-## 💡 Smart Contract Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-Seasoned%20Developer-brightgreen?style=for-the-badge&logo=blockchain.com" alt="Seasoned Developer">
+</div>
+
+### 🌟 Blockchain Pioneer
+- 🔗 Deep expertise in smart contracts and Bitcoin development
+- 🎭 Veteran of the **"colored coins"** and **"masternode"** revolution
+- 🦠 In the field even before _The Pandemic_
+
+### 💼 Professional Evolution
+1. 🏛️ **Bitcoin Era**
+   - Active participant in Bitcoin forums
+   - 💻 Contributed **C++/QT** expertise
+   - 🛡️ Assisted teams with masternodes and privacy coins
+
+2. 🌈 **Ethereum Transition**
+   - 🍣 Joined the **EVM** ecosystem during **SUSHI DEX** rise
+   - 🌾 Supported teams in the farming era
+
+3. 🔮 **Current Focus**
+   - 💹 Specializing in **decentralized finance (DeFi)**
+   - 🚀 Deploying cutting-edge protocols on EVM chains
+   - 🌌 Expertise in **Cosmos/EVM protocols**
+
+### 🤖 Innovative Integration
+- 🧠 Merging **AI and DeFi**
+- 🔬 Developed [$NAAI protocol](https://etherscan.io/token/0x7865ec47bef9823ad0010c4970ed90a5e8107e53#code)
+  - Created backend for "AI auditing contract" solution
+  - Implemented anti-snipe bot features in smart contracts
+
+### 🛡️ Security First Approach
+- ✅ Flawless track record: No hacked protocols
+- 🔍 Meticulous Solidity coding practices
+- 🧪 Ensures **full test coverage** before deployment
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-Exceptional-blue?style=for-the-badge&logo=checkmarx" alt="Code Quality">
+  <img src="https://img.shields.io/badge/Security-Paramount-red?style=for-the-badge&logo=hackerone" alt="Security">
+</div>
+
+---
+
+## 🛠️ bitcoin
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-Expert-orange?style=for-the-badge&logo=bitcoin" alt="Bitcoin Expert">
+</div>
+
+### 🔗 Bitcoin Ecosystem Mastery
+- 🖼️ **Ordinals & NFTs**: Pioneered implementation of Bitcoin Ordinals protocol
+  - Developed custom solutions for minting and trading Bitcoin NFTs
+  - Created efficient scripts for Ordinal inscriptions
+- 🔍 **Transaction Monitoring**: Built robust Bitcoin transaction monitoring systems
+  - Implemented real-time mempool analysis for high-frequency trading bots
+  - Developed custom APIs for blockchain explorers with advanced filtering capabilities
+- 🧮 **UTXO Management**: Optimized UTXO selection algorithms for large-scale Bitcoin operations
+  - Implemented scripts for UTXO decoding and analysis for payment dection.
+  - Implemented scripts for payment confirmation from 1 to 3 confirmations.
+
+### 🏛️ DeFi Architecture
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Gas%20Optimization-Expert-yellow?style=for-the-badge&logo=ethereum" alt="Gas Optimization Expert">
+  <img src="https://img.shields.io/badge/Cross--Chain-Innovator-purple?style=for-the-badge&logo=chainlink" alt="Cross-Chain Innovator">
+</div>
+
+- 📊 **AMM Innovations**: 
+  - Implemented novel bonding curve algorithms for improved liquidity provision
+  - First on implementing bonding curve algorithms for evm tokens with auto-deployment, like `PupFun` on EVM/Cosmos.
+  - Developed hybrid AMM-order book systems for enhanced capital efficiency for arb bots to trade/arb on multiple chains using AI.
+- 🏦 **Yield Optimization**: 
+  - Created auto-compounding strategies with gas-efficient rebalancing mechanisms
+  - Implemented flash loan aggregators for arbitrage and liquidation protection
+- 🔐 **Governance Solutions**: 
+  - Developed quadratic voting systems for fair decision-making in DAOs
+  - Implemented time-locked, multi-sig treasury management contracts
+- 🌟 **Pioneering Staking on Harmony**: 
+  - Developed the first contract for staking assets on Harmony network
+  - Implemented innovative reward sharing and auto-reinvestment mechanisms
+  - Optimized gas efficiency for frequent reward distributions
+  - Integrated fail-safe measures to ensure user fund security during network instabilities
+
+
+### 🚀 Smart Contract Innovation
+- 🔒 **Security-First Approach**: 
+  - Implemented advanced anti-bot measures in token contracts.
+  - Developed custom proxy patterns for protocol-specific requirements.
+- 🌉 **Cross-Chain Solutions**: 
+  - Engineered atomic swap protocols for trustless cross-chain transactions using L0.
+  - Implemented state-of-the-art bridge contracts for seamless asset transfers for ERC20 and ERC721.
+- 🤖 **AI Integration**: 
+  - Pioneered AI-driven smart contract auditing tools, was one of the first to use it on Bitcoin.
+  - Developed machine learning models for predicting gas prices and optimizing transaction timing
+
+### 💡 Smart Contract Development
 
 - Developed smart contracts for **DeFi protocols**, DEXs, betting platforms, and decentralized exchanges
 - Implemented complex interactions like **flash loans** and **atomic swaps**
@@ -120,15 +210,31 @@ So far, until today, no protocol has been hacked as I’m very careful with Soli
     - I tend to use the latest version of Solidity, as I like to use the latest features and best practices.
     - Using latest versions with good test-cases is very important to ensure the security of the contracts and to demonstrate good practices used in the protocol.
 
-## **🏗 Key Projects:**
-- **Yield farming and liquidity mining protocols**
-- **NFT marketplaces, minting, and gaming platforms**
-- **Decentralized exchanges** (including work on SushiSwap)
-- **ERC20 token implementations** with advanced features
-- **Anti-sniper and anti-MEV protection systems**
-- **Memecoin smart contracts** with unique tokenomics
-- **Decentralized betting platforms**
-- **Smart contract refactoring and optimization**
+# 🚀 Key Projects
+
+🌾 **Yield Farming & Liquidity Mining**
+   - Engineered high-performance protocols for maximizing DeFi returns
+
+🎨 **NFT Ecosystems**
+   - Developed cutting-edge marketplaces, minting platforms, and blockchain-based gaming solutions
+
+💱 **Decentralized Exchanges (DEX)**
+   - Contributed to major projects including SushiSwap, enhancing liquidity and trading efficiency
+
+💎 **Advanced ERC20 Tokens**
+   - Implemented tokens with sophisticated features, pushing the boundaries of tokenomics
+
+🛡️ **Anti-Sniper & Anti-MEV Systems**
+   - Designed robust protection mechanisms to ensure fair and secure trading environments
+
+🐕 **Innovative Memecoin Smart Contracts**
+   - Created contracts with unique tokenomics, blending fun with serious DeFi functionality
+
+🎲 **Decentralized Betting Platforms**
+   - Built secure and transparent betting systems on blockchain technology
+
+⚡ **Smart Contract Optimization**
+   - Specialized in refactoring and optimizing contracts for enhanced performance and reduced gas costs
 
 ## 🔗 Bitcoin Development
 
