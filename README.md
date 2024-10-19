@@ -30,56 +30,52 @@ So far, until today, no protocol has been hacked as I’m very careful with Soli
 
 ---
 
-## Skills
+## 🛠 Skills
 
-### Smart Contract Development
+### 💡 Smart Contract Development
 
-- Developed and implemented smart contracts for a variety of **DeFi protocols**, DEXs, betting platforms, and decentralized exchanges.
-- Worked on projects involving complex smart contract interactions, such as **flash loans** and **atomic swaps**.
-- Implemented security best practices, such as **reentrancy guards** and **access control mechanisms**, to ensure the integrity of smart contracts.
-- Conducted thorough testing of smart contracts using **unit tests** and **integration tests** to identify and fix potential issues.
-- Optimized smart contracts for **gas efficiency** and scalability to handle high transaction volumes.
-- Stayed up-to-date on the latest **Solidity** language features and best practices.
-- Collaborated with cross-functional teams, including front-end developers and product managers.
+- Developed smart contracts for **DeFi protocols**, DEXs, betting platforms, and decentralized exchanges
+- Implemented complex interactions like **flash loans** and **atomic swaps**
+- Applied security best practices: **reentrancy guards**, **access control mechanisms**
+- Conducted thorough **unit and integration testing**
+- Optimized for **gas efficiency** and scalability
+- Stayed current with latest **Solidity** features and best practices
+- Collaborated with cross-functional teams
 
-**Some specific projects:**
+**🏗 Key Projects:**
+- **Decentralized lending protocol**
+- **Decentralized exchange**
+- **Layer 2 scaling solution** bridge to Ethereum mainnet
+- **Decentralized governance system**
 
-- Developed a smart contract for a **decentralized lending protocol** that allows users to lend and borrow assets without intermediaries.
-- Implemented a smart contract for a **decentralized exchange** that enables users to trade cryptocurrencies trustlessly.
-- Worked on bridging a **Layer 2 scaling solution** to the Ethereum mainnet.
-- Developed a smart contract for a **decentralized governance system** for token holder voting.
+### 🔗 Bitcoin Development
 
-### **Bitcoin Development** *(New Section)*
+- **Bitcoin Scripting**: Developed and analyzed Bitcoin scripts
+- **Shamir's Secret Sharing**: Implemented for secure key management
+- **Consensus Models**: In-depth understanding of various algorithms
+- **Schnorr Signatures**: Enhanced security and scalability
+- **Fraud-Proof Systems**: Designed systems to detect and prevent fraudulent activities
 
-- **Bitcoin Scripting**: Proficient in developing and analyzing Bitcoin scripts for various applications.
-- **Shamir's Secret Sharing**: Experienced in implementing Shamir's Secret Sharing for secure key management.
-- **Consensus Models**: In-depth understanding of various consensus algorithms used in blockchain systems.
-- **Schnorr Signatures**: Implemented Schnorr signatures and signature aggregation techniques to enhance security and scalability.
-- **Fraud-Proof Systems**: Designed and developed systems to detect and prevent fraudulent activities within blockchain networks.
-
-### Programming Languages & Technologies
+### 💻 Programming Languages & Technologies
 
 - **TypeScript**, **JavaScript**, **Node.js**
-- Extensive experience coding **telecom/VoIP services** in **C/C++** for large telecommunication networks.
-- **Golang**: Proficient in Golang for developing scalable and secure blockchain solutions.
+- **C/C++**: Extensive experience in telecom/VoIP services
+- **Golang**: Proficient for scalable and secure blockchain solutions
 
-### VoIP Services Experience
+### 📞 VoIP Services Experience
 
-Prior to blockchain development:
+- Designed and implemented **VoIP protocols** and architectures
+- Developed VoIP applications using **C/C++**
+- Optimized VoIP performance and scalability
+- Troubleshot and resolved VoIP issues
+- Worked with VoIP hardware and software
+- Integrated VoIP systems with other telecommunications systems
 
-- Designed and implemented **VoIP protocols** and architectures.
-- Developed VoIP applications using **C/C++**.
-- Optimized VoIP performance and scalability.
-- Troubleshot and resolved VoIP issues.
-- Worked with VoIP hardware and software.
-- Integrated VoIP systems with other telecommunications systems.
-
-**Projects:**
-
-- Developed a **VoIP gateway** for PSTN to VoIP network connectivity.
-- Implemented a **VoIP softphone** application for mobile devices.
-- Designed and built a **VoIP call center solution**.
-- Integrated a VoIP system with a **CRM system**.
+**🏗 VoIP Projects:**
+- **VoIP gateway** for PSTN to VoIP network connectivity
+- **VoIP softphone** application for mobile devices
+- **VoIP call center solution**
+- VoIP system integration with **CRM system**
 
 ---
 
