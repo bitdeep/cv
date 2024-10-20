@@ -467,3 +467,9 @@ Key Contributions:
 - Contributed to the development of xGrail plugins for Camelot's ecosystem.
 - Designed and implemented airdrop contracts for token distribution.
 - Participated in code refactoring efforts to improve contract efficiency and 
+
+## [Malt Protocol](https://malt.com/)
+
+- Upgraded smart contracts from Solidity version 0.7 to Solidity version 0.8, ensuring compatibility and leveraging new features.
+- Enhanced contract security and performance by utilizing Solidity v8's improved features and optimizations.
+- Collaborated with the development team to implement best practices and conducted thorough testing to validate upgrades.
