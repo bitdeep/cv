@@ -13,7 +13,7 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 </div>
 
 
-# Conctact
+# Contact
 
 - 📧 **Email**: [as2742397@gmail.com](mailto:as2742397@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/wendelrpereira](https://www.linkedin.com/in/wendelrpereira/)  
@@ -29,7 +29,7 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 
 ---
 
-## 🚀 Summary: A Journey Through Blockchain Evolution
+## 🚀 Summary: A Journey Through Blockchain & AI Evolution
 
 <div align="center">
   <img src="https://img.shields.io/badge/Experience-Seasoned%20Developer-brightgreen?style=for-the-badge&logo=blockchain.com" alt="Seasoned Developer">
@@ -82,12 +82,12 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 ### 🔗 Bitcoin Ecosystem Mastery
 - 🖼️ **Ordinals & NFTs**: Pioneered implementation of Bitcoin Ordinals protocol
   - Developed custom solutions for minting and trading Bitcoin NFTs
-  - Created efficient scripts for Ordinal inscriptions
+  - Create efficient scripts for Ordinal inscriptions
 - 🔍 **Transaction Monitoring**: Built robust Bitcoin transaction monitoring systems
   - Implemented real-time mempool analysis for high-frequency trading bots
   - Developed custom APIs for blockchain explorers with advanced filtering capabilities
 - 🧮 **UTXO Management**: Optimized UTXO selection algorithms for large-scale Bitcoin operations
-  - Implemented scripts for UTXO decoding and analysis for payment dection.
+  - Implemented scripts for UTXO decoding and analysis for payment detection.
   - Implemented scripts for payment confirmation from 1 to 3 confirmations.
 
 ### 🏛️ DeFi Architecture
@@ -102,7 +102,8 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
   - First on implementing bonding curve algorithms for evm tokens with auto-deployment, like `PupFun` on EVM/Cosmos.
   - Developed hybrid AMM-order book systems for enhanced capital efficiency for arb bots to trade/arb on multiple chains using AI.
 - 🏦 **Yield Optimization**: 
-  - Created auto-compounding strategies with gas-efficient rebalancing mechanisms
+  - Created auto-compounding strategies with gas-efficient re-balancing 
+    mechanisms
   - Implemented flash loan aggregators for arbitrage and liquidation protection
 - 🔐 **Governance Solutions**: 
   - Developed quadratic voting systems for fair decision-making in DAOs
@@ -111,7 +112,7 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
   - Developed the first contract for staking assets on Harmony network
   - Implemented innovative reward sharing and auto-reinvestment mechanisms
   - Optimized gas efficiency for frequent reward distributions
-  - Integrated fail-safe measures to ensure user fund security during network instabilities
+  - Integrated fail-safe measures to ensure users fund security during network instabilities
 
 
 ### 🚀 Smart Contract Innovation
@@ -119,7 +120,8 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
   - Implemented advanced anti-bot measures in token contracts.
   - Developed custom proxy patterns for protocol-specific requirements.
 - 🌉 **Cross-Chain Solutions**: 
-  - Engineered atomic swap protocols for trustless cross-chain transactions using L0.
+  - Engineered atomic swap protocols for trust-less cross-chain transactions 
+    using L0.
   - Implemented state-of-the-art bridge contracts for seamless asset transfers for ERC20 and ERC721.
 - 🤖 **AI Integration**: 
   - Pioneered AI-driven smart contract auditing tools, was one of the first to use it on Bitcoin.
@@ -139,7 +141,7 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 - Created presale, airdrop, and farming contracts with advanced features, as demonstrated in multiple repositories on my [GitHub profile](https://github.com/bitdeep), such as:
   - Sample public contracts in the [SolidityContracts](https://github.com/bitdeep/SolidityContracts) repository
   - Token-related contracts in repositories like [xex-contracts](https://github.com/bitdeep/xex-contracts) and [token-deposit](https://github.com/bitdeep/token-deposit)
-  - Specialized contracts like the [timelock-multsig](https://github.com/bitdeep/timelock-multsig) combination, **as one of biggest issue of our time is hack of protocols with multiple multisigs**.
+  - Specialized contracts like the [timelock-multsig](https://github.com/bitdeep/timelock-multsig) combination, **as one of the biggest issues of our time is hack of protocols with multiple multisigs**.
 - Designed NFT auction and raffle systems, as demonstrated in various repositories on my [GitHub profile](https://github.com/bitdeep):
   - Implemented smart contracts for NFT minting, trading, and auctions in projects like [nft-auction](https://github.com/bitdeep/nft-auction)
   - Developed raffle systems with fair distribution mechanisms, such as [nft-raffle-contract](https://github.com/bitdeep/nft-raffle-contract)
@@ -149,7 +151,7 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 - Developed DAO and treasury management contracts, as demonstrated in several repositories:
   - [dao-contracts-dev](https://github.com/bitdeep/dao-contracts-dev): DAO treasure contracts
   - [dao-team-presale](https://github.com/bitdeep/dao-team-presale): Team presale contracts and test-cases for DAO
-  - [farm-with-lock](https://github.com/bitdeep/farm-with-lock): Farming contract with lock mechanism, often used in DAO ecosystems
+  - [farm-with-lock](https://github.com/bitdeep/farm-with-lock): Farming contract with a lock mechanism, often used in DAO ecosystems
 - Implemented various DAO-related functionalities, as demonstrated in several repositories:
   - Voting mechanisms and governance systems in [dao-contracts-dev](https://github.com/bitdeep/dao-contracts-dev)
   - Token distribution systems, including team presales in [dao-team-presale](https://github.com/bitdeep/dao-team-presale)
@@ -169,19 +171,19 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
   - Conducted thorough audits and code reviews, utilizing a combination of AI-assisted tools and manual expertise:
     - Leveraged the [audit_gpt](https://github.com/bitdeep/audit_gpt) repository for AI-powered smart contract analysis
     - Employed Google Gemini for advanced code review and potential vulnerability detection
-    - Utilized Aider for collaborative code review sessions and automated test case generation
+    - Use Aider for collaborative code review sessions and automated test case generation
     - Complemented AI-assisted reviews with manual expert analysis to ensure comprehensive security assessments
   - Implemented advanced anti-bot and anti-MEV measures in token contracts, as demonstrated in projects like [$NAAI protocol](https://etherscan.io/token/0x7865ec47bef9823ad0010c4970ed90a5e8107e53#code):
-    - Utilized dynamic buy and sell limits to prevent large-scale sniping and dumping
+    - Used dynamic buy and sell limits to prevent large-scale sniping and dumping
     - Implemented cooldown periods between transactions to mitigate rapid trading by bots
-    - Employed blacklisting functionality to restrict malicious actors
+    - Used blacklisting functionality to restrict malicious actors
     - Integrated anti-whale mechanisms to prevent market manipulation by large holders
     - Implemented gas price limits to reduce the effectiveness of front-running attacks
-    - Utilized transfer delays for large transactions to give legitimate traders a fair chance
+    - Used transfer delays for large transactions to give legitimate traders a fair chance
   - Designed secure proxy patterns for upgradeable contracts, demonstrated in various DeFi protocol implementations:
-    - Deployed numerous Transparent and Beacon proxies for major protocols
+    - Deployed many Transparent and Beacon proxies for major protocols
     - Implemented UUPS (Universal Upgradeable Proxy Standard) for gas-efficient upgrades
-    - Created custom proxy patterns for specific protocol requirements, such as a upgradeable beacon for Equilibre Finance
+    - Create custom proxy patterns for specific protocol requirements, such as a upgradeable beacon for Equilibre Finance
     - Optimized gas costs for proxy implementations using techniques like minimal proxies (EIP-1167)
     - Managed complex upgrade processes for live protocols with minimal downtime
     - Implemented multi-step upgrade patterns for critical protocol changes, _like creating scripts to safe upgrade of gauges/pools of factories_.
@@ -197,18 +199,18 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
     - Utilized time-manipulation techniques in Hardhat to test time-dependent contract logic, essential for projects with vesting or lock periods like [farm-with-lock](https://github.com/bitdeep/farm-with-lock)
     - Implemented gas usage tracking and optimization based on test results, crucial for efficient contract deployment and execution across various projects _as some contracts may not deploy if gas is not optimized_.
   - Optimized for **gas efficiency** and scalability:
-    - _most of optimizations are in private contracts that I can share some if needed_.
-    - Used storage packing to reduce slot usage where applicable
+    - _most of the optimizations are in private contracts that I can share some if needed_.
+    - Use storage packing to reduce slot usage where applicable
     - Applied `unchecked` blocks for safe arithmetic operations
     - Implemented bit manipulation for efficient flag storage
-    - Used inline assembly for specific optimizations when necessary
+    - Use inline assembly for specific optimizations when necessary
     - Employed proxy patterns to minimize deployment costs
     - Utilized `calldata` for read-only function parameters
     - Optimized loops by caching lengths and using pre-increment
     - Leveraged short-circuiting in conditional statements
-- Stayed current with latest **Solidity** features and best practices
+- Stayed current with the latest **Solidity** features and best practices
     - I tend to use the latest version of Solidity, as I like to use the latest features and best practices.
-    - Using latest versions with good test-cases is very important to ensure the security of the contracts and to demonstrate good practices used in the protocol.
+    - Using the latest versions with good test-cases is very important to ensure the security of the contracts and to demonstrate good practices used in the protocol.
 
 # 🚀 Key Projects
 
@@ -259,17 +261,17 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 
 - Developed an **AI-powered auditing system** for smart contract analysis
 - Created tools for fine-tuning GPT models for blockchain-specific tasks, most of the time using RAG from database data.
-- Implemented RAG-based document chatting systems for blockchain information, like, informaing use about contract issues using api like fuzzers, goplus, slither and other tools.
+- Implemented RAG-based document chatting systems for blockchain information, like, informing use about contract issues using api like fuzzers, goplus, slither and other tools.
 - Integrated AI capabilities with DeFi protocols for enhanced security and user experience, specially for auditing contracts.
 
 ## 📞 VoIP Services Experience
 
-- Designed and implemented **VoIP protocols** and architectures for large scale VoIP systems for callcenter and fed-gov telecom projects.
+- Designed and implemented **VoIP protocols** and architectures for large scale VoIP systems for call center and fed-gov telecom projects.
 - Developed Softphone/VoIP applications using **C/C++**/Qt for various telecom projects.
-- Optimized VoIP performance and scalability for telecom projects, to handle largue scale state calling queues for public safety answering points (P3).
+- Optimized VoIP performance and scalability for telecom projects to handle large scale state calling queues for public safety answering points (P3).
 - Troubleshot and resolved VoIP issues for telecom projects, specially in 3rd party integrations with VoIP vendors, enterprises and other telecom projects that needed state/wan/lan/internet connections.
-- Worked with VoIP hardware and software, like, Cisco, Avaya, Mitel, etc for large scale telecom projects and fed-gov projects.
-- Integrated VoIP systems with other telecommunications systems, like, CRM, billing, etc, specially to handle calls/queues/reports/analytics from CDR raw data with other tools like Microsoft Excel and Power BI.
+- Worked with VoIP hardware and software, like, Cisco, Avaya, Mitel, etc. for large-scale telecom projects and fed-gov projects.
+- Integrated VoIP systems with other telecommunications systems, like, CRM, billing, etc., specially to handle calls/queues/reports/analytics from CDR raw data with other tools like Microsoft Excel and Power BI.
 
 **🏗 VoIP Projects:**
 - **VoIP gateway** for PSTN/E1/IP to VoIP network connectivity
@@ -284,17 +286,17 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 
 ## AWS
 
-> _On cloud services, I worked with various cloud providers to deploy telegram/discord bot and AI services and also to pre/pos process VoIP data, like calls audios conversion and transcription._
+> _On cloud services, I worked with various cloud providers to deploy telegram/discord bot and AI services and also to pre/pos process VoIP data, like calls audio conversion and transcription._
 
 - **Amazon ECS**: Managed container orchestration, specially for deploying my bots and AI services for large scale telegram/discord/telegram communities.
 - **AWS CodeCommit** and **CodePipeline**: Git repositories and CI/CD automation.
 - **AWS Lambda**: Used for deploying my bots and AI services for large scale telegram/discord/telegram communities.
-- **GCP Gemini**: Used gemini for large scale AI processing of audios and other data for BI systems.
+- **GCP Gemini**: Used gemini for large scale AI processing of audio and other data for BI systems.
 
 ## Others
 
-- **DigitalOcean** and **Spaces**: normaly I used it for some projects when asked by team, but not as much as AWS.
-- **Heroku Container Registry**, **Pipelines**, and **Review Apps**: normaly I used it for some projects when asked by team, but not as much as AWS.
+- **DigitalOcean** and **Spaces**: normally I used it for some projects when asked by team, but not as much as AWS.
+- **Heroku Container Registry**, **Pipelines**, and **Review Apps**: normally I used it for some projects when asked by team, but not as much as AWS.
 
 ---
 
@@ -310,9 +312,9 @@ Experience with various blockchain protocols:
 
 # Open Source Contributions
 
-- Actively maintain 67 public repositories on GitHub as example for anyone to learn and use them, I keep them there just to help the community and to show my skills and knowledge.
-- Contribute to major DeFi projects like SushiSwap and Abracadabra Money, Camelot, KOI, and various other small protocols that I love to help, speciall on meme coins sector.
-- Develop and share utilities for blockchain interactions and Web3 development, like, bots, explorers, etc.
+- Actively maintain 67 public repositories on GitHub as an example for anyone to learn and use them, I keep them there just to help the community and to show my skills and knowledge.
+- Contribute to major DeFi projects like SushiSwap and Abracadabra Money, Camelot, KOI, and various other small protocols that I love to help, special on meme coins sector.
+- Develop and share utilities for blockchain interactions and Web3 development, like bots, explorers, etc.
 - Also, starting to contribute with AI NPM ecosystem.
 
 # AI and Messaging Platform Integration
@@ -326,18 +328,25 @@ Experience with various blockchain protocols:
         - a `gc` cli tool to help with git workflow and to make it easier to contribute to open source projects.
         - a `hn` cli tool to help with Hacker News that I use daily to keep up with the latest news in the tech world in a summarized way, telling me about author/site/points/comments and all the info in a summarized way to avoid scam and fake news.
         - a `aic` ai-aider tool to help with AI coding, like, code review, test case generation, etc. Where I have a prompt to instruct aider to do things to me, specially passing the entire relevant code context to be more efficient.
-        - a `fs-ai` tool to help with file search in a summarized way, like, passing the dir, it give me the summary of the files and subdirs, and then I can choose to read more or not. And allow me to organize and index my files and folders.
-        - a `ai-yt` tool to help with youtube, like, passing the url, it give me the summary of the video, and then I can choose what language I want it to convert the audio, givinging my own voice to the video (pt-br), so I can listen to the video in the car, etc.
-        - a `ai-podcast` tool to help with youtube videos, like, passing the url, it give me the summary of the video, and then I can choose what language I want it to convert the audio, givinging my own voice to the video (pt-br), so I can listen to the video in the car, etc, it auto-add to my pocast queue to I can listen while I do my tasks.
-        - a `gfs` a google chrome exteion that auto-check all my links in google search results, and tell me if it is a scam or not, and give me the summary of the page, and then I can choose to open the page or not.
-        - a `ai-v`, an ai-powered translation that perfectly translate my videos with voice cloning, so I can watch any video in any language as if it was in my language (pt-br), and the voice is in portuguese (br) using artist tone.
-        - a `ai-books-tts`, an ai-powered text to speech that perfectly convert any text to speech in any language with my own voice, I use it to convert papers/books to audio books and listen while I do my tasks/waking up.
+        - a `fs-ai` tool to help with file search in a summarized way, like, passing the dir, it gives me the summary of the files and sub dirs, and then I can choose to read more or not. And allow me to organize and index my files and folders.
+        - a `ai-yt` tool to help with YouTube, like, passing the url, it 
+          gives me the summary of the video, and then I can choose what 
+          language I want it to convert the audio, singing my author voice to 
+          the video (pt-br), so I can listen to the video in the car, etc.
+        - a `ai-podcast` tool to help with YouTube videos, like, passing the 
+          url, it gives me the summary of the video, and then I can choose 
+          what language I want it to convert the audio, singing personalized 
+          pt-br voice to the video (pt-br), so I can listen to the video in 
+          the car, etc., it auto-add to my podcast queue to I can listen while I do my tasks.
+        - a `gfs` a Google Chrome extension that auto-check all my links in Google search results, and tell me if it is a scam or not, and give me the summary of the page, and then I can choose to open the page or not.
+        - a `ai-v`, an ai-powered translation that perfectly translates my videos with voice cloning, so I can watch any video in any language as if it was in my language (pt-br), and the voice is in portuguese (br) using artist tone.
+        - a `ai-books-tts`, an ai-powered text to speech that perfectly converts any text to speech in any language with my own voice, I use it to convert papers/books to audiobooks and listen while I do my tasks/waking up.
 
 ## Telegram Bot Development
 
 - Designed and built **custom Telegram bots** for crypto communities.
 - Implemented bots providing real-time market data, wallet tracking, and automated support.
-- Specially designed largue scale community bots with queueing system to process large scale of prompts, like, airdrops, airdrop claim, voting, etc.
+- Specially designed largue scale community bots with a queueing system to process large scale of prompts, like, airdrops, airdrop claim, voting, etc.
 - I have various samples to demonstrate my skills in telegram bots, like, airdrop bots, voting bots, etc.
 
 ## Discord Bot Development
@@ -350,24 +359,25 @@ Experience with various blockchain protocols:
 
 - Integrated AI-powered natural language processing to enhance bot interactions, specially using zod and gpt-4o to create schemas and validate data.
 - Provided more intuitive user experiences through AI capabilities, using RAG to answer questions and to provide more accurate and up-to-date information.
-- **Developed very personalized AI bots that can't be easily detected by users, specially for chating when it's need to know user preferences and to act as a good friend**.
+- **Developed very personalized AI bots that can't be easily detected by 
+  users, specially for chat'ing when it'd need to know user preferences and to act as a good friend**.
 
 ## Blockchain Integration
 
 - Created bots capable of executing on-chain transactions based on user commands, specially generating user wallet addresses and private keys to interact with the blockchain.
-- Both on discord/tg, allowed users to verify and claim airdrops, voting, etc via bots.
+- Both on discord/tg, allowed users to verify and claim airdrops, voting, etc. via bots.
 
 ## Cross-Platform Solutions
 
-- Implemented solutions that synchronized data and functionality between Telegram, Discord, and web interfaces, specially for community bots that needs to be available 24/7 on multiple platforms.
+- Implemented solutions that synchronized data and functionality between Telegram, Discord, and web interfaces, specially for community bots that need to be available 24/7 on multiple platforms.
 - Integrated blockchain explorer and other APIs to allow users to check their balance, transactions, etc, directly from the bot interface.
 
 ## Security
 
 - Developed secure authentication systems for bots.
-- Normally I use aws secure vault to store my bots tokens and keys, and to avoid any leaks.
-- Also, for local bots initialization I tend to use local vaults npm modules to store my keys and tokens, and to avoid any leaks, as I can use dotenv, I avoid it on VPS/cloud services.
-- Ensured user data protection and prevented unauthorized access to sensitive functions by encrypting data at rest and implementing strict access controls using local vaults with PIN codes to avoid exploitatin via looking for .env files.
+- Normally I use aws secure vault to store my bot tokens and keys, and to avoid any leaks.
+- Also, for local bots initialization, I tend to use local vaults npm modules to store my keys and tokens, and to avoid any leaks, as I can use dotenv, I avoid it on VPS/cloud services.
+- Ensured user data protection and prevented unauthorized access to sensitive functions by encrypting data at rest and implementing strict access controls using local vaults with PIN codes to avoid exploitation via looking for .env files.
 
 ---
 
@@ -390,10 +400,10 @@ Experience with various blockchain protocols:
   - Whitelist management and KYC integration
   - Dynamic pricing mechanisms for token sales
 - Implemented security measures like access controls, rate limiting, and emergency pause functionality.
-- Collaborated with frontend team to create intuitive interfaces for project creators and participants.
+- Collaborated with a frontend team to create intuitive interfaces for project creators and participants.
 - Conducted code reviews and optimizations to ensure gas efficiency and contract security.
 - Assisted in smart contract audits and addressed identified vulnerabilities.
-- Created test ui for contracts, to allow users to test the contracts before the launch.
+- Created test ui for contracts to allow users to test the contracts before the launch.
 
 [View Koi Launchpad on Twitter](https://x.com/KoiLaunchpad)
 
@@ -405,8 +415,8 @@ Experience with various blockchain protocols:
   - Integration of V2/V3 pools-gauge contracts.
   - Adaptive fee mechanism to dynamically adjust trading fees based on market conditions
   - Voting and governance contracts for decentralized decision-making
-  - Use of beacon proxys for pools/gauges.
-  - Refactor of immutable contracts to upgradeable contracts, using transparent proxy pattern.
+  - Use of beacon proxy's for pools/gauges.
+  - Refactor of immutable contracts to upgradeable contracts, using a transparent proxy pattern.
 - Developed and maintained subgraphs for efficient data indexing and querying of on-chain events. Specially for pools/gauges api stats.
 - Collaborated on the creation of a custom oracle solution for reliable token pricing on the Kava blockchain.
 - Created airdrop functionality and distribution mechanisms.
@@ -423,8 +433,8 @@ Experience with various blockchain protocols:
   - Integration of V2/V3 pools-gauge contracts.
   - Adaptive fee mechanism to dynamically adjust trading fees based on market conditions
   - Voting and governance contracts for decentralized decision-making
-  - Use of beacon proxys for pools/gauges.
-  - Refactor of immutable contracts to upgradeable contracts, using transparent proxy pattern.
+  - Use of beacon proxy's for pools/gauges.
+  - Refactor of immutable contracts to upgradeable contracts, using a transparent proxy pattern.
 - Developed and maintained subgraphs for efficient data indexing and querying of on-chain events. Specially for pools/gauges api stats.
 - Collaborated on the creation of a custom oracle solution for reliable token pricing on the Kava blockchain.
 - Created airdrop functionality and distribution mechanisms.
