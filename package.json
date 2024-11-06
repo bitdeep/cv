@@ -1,0 +1,32 @@
+{
+	"name": "cv",
+	"version": "1.0.0",
+	"description": "Professional CV of Wendel R. Pereira - Blockchain & AI Developer",
+	"main": "index.js",
+	"repository": "git@github.com:bitdeep/cv.git",
+	"author": "bitdeep <19378023+bitdeep@users.noreply.github.com>",
+	"license": "MIT",
+	"scripts": {
+		"format": "prettier --write ."
+	},
+	"keywords": [
+		"blockchain",
+		"smart-contracts",
+		"ethereum",
+		"defi",
+		"solidity",
+		"web3",
+		"artificial-intelligence",
+		"typescript",
+		"nodejs"
+	],
+	"engines": {
+		"node": ">=22.0.0"
+	},
+	"dependencies": {
+		"boxicons": "^2.1.4",
+		"feather-icons": "^4.29.2",
+		"flag-icons": "^7.2.3",
+		"remixicon": "^4.5.0"
+	}
+}

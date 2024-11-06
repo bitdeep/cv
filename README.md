@@ -1,476 +1,408 @@
-## 🌟 My Dream
+# Wendel R. Pereira
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Goal-$1B%20TVL-gold?style=for-the-badge&logo=ethereum" alt="$1B TVL Goal">
+
+[![Email](https://img.shields.io/badge/Email-as2742397%40gmail.com-red?style=flat-square&logo=gmail&style=for-the-badge&borderRadius=8&boxShadow=0%203px%202px%20rgba%280%2C0%2C0%2C0.3%29)](mailto:as2742397@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wendelrpereira-blue?style=flat-square&logo=linkedin&style=for-the-badge&borderRadius=8&boxShadow=0%203px%202px%20rgba%280%2C0%2C0%2C0.3%29)](https://linkedin.com/in/wendelrpereira)
+[![Telegram](https://img.shields.io/badge/Telegram-bitdeep-blue?style=flat-square&logo=telegram&style=for-the-badge&borderRadius=8&boxShadow=0%203px%202px%20rgba%280%2C0%2C0%2C0.3%29)](https://t.me/bitdeep)
+[![Twitter](https://img.shields.io/badge/bitdeep__-black?style=flat-square&logo=x&style=for-the-badge&borderRadius=8&boxShadow=0%203px%202px%20rgba%280%2C0%2C0%2C0.3%29)](https://twitter.com/bitdeep_)
+[![Discord](https://img.shields.io/badge/Discord-bitdeep-7289DA?style=flat-square&logo=discord&style=for-the-badge&borderRadius=8&boxShadow=0%203px%202px%20rgba%280%2C0%2C0%2C0.3%29)](https://discord.com/users/bitdeep)
+[![GitHub](https://img.shields.io/badge/GitHub-bitdeep-black?style=flat-square&logo=github&style=for-the-badge&borderRadius=8&boxShadow=0%203px%202px%20rgba%280%2C0%2C0%2C0.3%29)](https://github.com/bitdeep)
+[![Keybase](https://img.shields.io/badge/Keybase-bitdeep-orange?style=flat-square&logo=keybase&style=for-the-badge&borderRadius=8&boxShadow=0%203px%202px%20rgba%280%2C0%2C0%2C0.3%29)](https://keybase.io/bitdeep)
+
 </div>
 
-_Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked** 💎_
+## 🚀 Summary
+
+> 🌟 A Journey Through Blockchain & AI Evolution
+
+### <img src="icons/remixicon/icons/Development/code-box-line.svg" width="20" height="20" alt="Blockchain"> Blockchain Pioneer with AI Integration
+
+-   🔗 Extensive expertise in **`Smart Contracts`**, **_Bitcoin Development_**, and **`AI Integration`**
+-   🚀 Pioneer in the **_Colored Coins_** and **`Masternode`** ecosystem evolution
+-   🌟 Spearheaded the convergence of **`AI`** and **_DeFi_** for groundbreaking solutions
+-   🌐 Pioneer in **_Bitcoin Ordinals_** deployment and `infrastructure development`
+
+### <img src="icons/boxicons/svg/solid/bxs-brain.svg" width="20" height="20" alt="AI"> AI and Blockchain Integration
+
+-   🤖 Developed an **AI-powered** _auditing system_ for `smart contract analysis`
+-   🧠 Created advanced tools for **fine-tuning** _GPT models_ for `blockchain-specific tasks`
+-   📚 Implemented **RAG-based** _document systems_ for `blockchain information retrieval`
+-   🔗 Integrated **AI capabilities** with _DeFi protocols_ for enhanced `security` and `user experience`
+-   📊 Developed **AI-driven** _market analysis systems_ using `on-chain data`
+-   💹 Created **predictive models** for _trading strategies_ based on `blockchain metrics`
+-   🔄 Implemented **real-time** _decision systems_ integrating `DeFi protocol data`
+-   📈 Built **automated trading** _frameworks_ with `AI-powered risk management`
+
+### <img src="icons/feather-icons/dist/icons/shield.svg" width="20" height="20" alt="Security"> Security-First Approach
+
+-   🛡️ **Impeccable Security Record**: _Zero security breaches_ or compromised protocols across all projects
+-   🔐 **Elite Coding Standards**: Implementing _rigorous_ `Solidity` best practices with **100% test coverage**
+-   🚫 **Advanced Protection Systems**:
+    -   Engineered _sophisticated_ anti-bot mechanisms using advanced techniques such as honeypots and time-delay traps to avoid sniper bots;
+    -   Developed **multi-layer** security protocols;
+    -   Implemented _real-time_ threat detection using **OpenZeppelin Defender**;
+-   ⚡ **Performance Optimization**:
+    -   Achieved _significant_ gas optimization using `hardhat-gas-reporter` and `forge` metrics;
+    -   Maintained **robust** system stability via extensive testing via forked chains;
+-   🔍 **Quality Assurance**:
+    -   Conducted _thorough_ `solidity` contracts code reviews for many years for traders in telegram groups;
+    -   Performed **comprehensive** security audits in smart contracts for `DeFi` users that are new to this industry;
+    -   Utilized _industry-leading_ testing frameworks, like `hardhat`, `forge` and old `truffle`;
+
+## <img src="icons/boxicons/svg/solid/bxs-briefcase.svg" width="20" height="20" alt="Experience"> Professional Experience
+
+### <img src="favicons/camelot.svg" width="20" height="20" alt="Exchange"> [Camelot.exchange](https://camelot.exchange/) | Senior Smart Contract Developer
+
+_Camelot Exchange is a pioneering decentralized exchange (DEX) built on Arbitrum, revolutionizing DeFi through its innovative Orbital Liquidity Network. As the largest DEX in the Arbitrum ecosystem._
+
+-   🎯 Architected and deployed sophisticated **airdrop mechanisms** for xGRAIL token holders, ensuring fair and efficient distribution
+-   🔧 Engineered critical protocol plugins with advanced features:
+    -   Custom fee distribution logic;
+    -   Enhanced liquidity management;
+    -   Automated reward systems;
+-   👥 Led cross-functional development initiatives:
+    -   Coordinated with security teams for audit preparations;
+    -   Maintained rigorous code quality standards through comprehensive testing;
+
+### <img src="favicons/koi.png" width="20" height="20" alt="Exchange"> [KoiPond Launchpad](https://koipond.io) | Lead Smart Contract Developer
+
+_KoiPond is an innovative DeFi launchpad platform focused on fair token distribution and community-driven project launches through advanced staking and auction mechanisms._
+
+-   🚀 **Architected Core Protocol Features**:
+    -   Engineered sophisticated **auction mechanisms** with _dynamic pricing_;
+    -   Developed **gauge staking** system with _boost multipliers_;
+    -   Implemented **anti-bot** measures for fair launches;
+-   💎 **Advanced DeFi Mechanisms**:
+    -   Built **multi-tier** staking system with _weighted allocations_;
+    -   Created **time-locked** vesting contracts with _cliff periods_;
+    -   Designed **dynamic pricing** algorithms for _optimal token distribution_;
+-   🛡️ **Security & Optimization**:
+    -   Implemented **role-based** access control using _OpenZeppelin standards_;
+    -   Engineered **emergency pause** functionality with _timelocks_;
+    -   Achieved **significant** gas optimization through _assembly usage_;
+-   👥 **Cross-Team Leadership**:
+    -   Led **integration** efforts with _frontend developers_;
+    -   Conducted **code reviews** and full testing coverage;
+    -   Established **development** standards and _best practices_;
+
+### <img src="favicons/equilibre.png" width="20" height="20" alt="Exchange"> [Equilibre Finance](https://equilibrefinance.com/) | Senior Smart Contract Developer
+
+_Equilibre Finance is a state-of-the-art AMM protocol that combines the best features of Uniswap v2, Uniswap v3, and Curve into a single platform. As a multi-chain DeFi hub, it aims to eliminate entry barriers and enable seamless interaction with digital assets for both crypto-native and non-native users._
+
+-   🔄 **Core Protocol Development**:
+    -   Deployed with some refactoring _sophisticated_ concentrated liquidity pools with dynamic fee tiers;
+    -   Implemented **advanced** price oracle systems for cross-chain functionality;
+    -   Developed _robust_ subgraphs for real-time protocol analytics;
+-   🎯 **Token Economics & Distribution**:
+    -   Designed **fair launch** mechanisms with anti-bot protections via airdro and liquidity farming;
+    -   Created _efficient_ merkle-based airdrop distribution systems;
+    -   Implemented **vesting** contracts with time-lock functionality;
+-   🌉 **Cross-Chain Solutions**:
+    -   Deployed _secure_ cross-chain bridge contracts;
+    -   Developed **atomic swap** protocols for enhanced interoperability;
+    -   Implemented _robust_ validation mechanisms for bridge security;
+-   📊 **Protocol Optimization via Proxy**:
+    -   Achieved **significant** gas optimization through assembly usage;
+    -   Engineered _efficient_ data structures for reduced storage costs;
+    -   Implemented **comprehensive** testing suites with 100% coverage;
+
+### <img src="favicons/keller.svg" width="20" height="20" alt="Exchange"> [Keller Finance](https://kellerfinance.app/) | Senior Smart Contract Developer
+
+_Keller Finance is a cutting-edge AMM protocol that leverages concentrated liquidity pools and dynamic fee tiers to provide optimal trading conditions. The protocol aims to deliver institutional-grade DeFi infrastructure while maintaining accessibility for retail users._
+
+-   🔄 **Protocol Architecture**:
+    -   Engineered _sophisticated_ concentrated liquidity pools with dynamic fee mechanisms;
+    -   Implemented **advanced** oracle systems for reliable price feeds;
+    -   Developed _robust_ analytics infrastructure for real-time protocol metrics;
+-   💰 **Tokenomics & Distribution**:
+    -   Designed **fair launch** tokenomics with anti-bot protections;
+    -   Created _efficient_ liquidity mining programs with boost multipliers;
+    -   Implemented **vesting** schedules with time-based unlocks;
+-   🛡️ **Security & Optimization**:
+    -   Achieved **significant** gas savings through assembly optimizations;
+    -   Engineered _robust_ proxy patterns for upgradeable contracts;
+    -   Implemented **comprehensive** testing with 100% coverage;
+-   📊 **Protocol Analytics**:
+    -   Built _sophisticated_ subgraphs for protocol data indexing;
+    -   Developed **real-time** monitoring systems for protocol health;
+    -   Created _detailed_ analytics dashboards for protocol metrics;
+
+### <img src="favicons/xexlabs.png" width="20" height="20" alt="XEX"> [XEX Labs](https://xexlabs.com/) | Senior Smart Contract Engineer
+
+_XEX Labs is pioneering cross-chain GameFi experiences through their innovative three-token ecosystem (XEX, ELX, Xexadons), combining DeFi mechanics with dungeon-crawling gameplay across 6 major blockchain networks._
+
+Contracts:
+
+-   ERC20 L0 Bridgeable: [Polygon](https://polygonscan.com/token/0xa41a879bcfdd75983a987fd6b68fae37777e8b28) | [BSC](https://bscscan.com/token/0xa41A879bcFdd75983a987FD6b68fae37777e8b28) | [Fantom](https://ftmscan.com/token/0xa41A879bcFdd75983a987FD6b68fae37777e8b28) | [Arbitrum](https://arbiscan.io/token/0xa41A879bcFdd75983a987FD6b68fae37777e8b28) | [Avalanche](https://snowtrace.io/token/0xa41A879bcFdd75983a987FD6b68fae37777e8b28) | [Ethereum](https://etherscan.io/token/0xa41A879bcFdd75983a987FD6b68fae37777e8b28)
+
+-   ERC721 L0 Bridgeable: [Polygon](https://polygonscan.com/token/0x6EF08F3F88Aa089A392fa2460543262a93D43637) | [BSC](https://bscscan.com/token/0x6EF08F3F88Aa089A392fa2460543262a93D43637) | [Fantom](https://ftmscan.com/token/0x6EF08F3F88Aa089A392fa2460543262a93D43637) | [Arbitrum](https://arbiscan.io/token/0xd3e634a5ac243f076f6acb10f8acdbe711e8af52) | [Avalanche](https://snowtrace.io/token/0x6EF08F3F88Aa089A392fa2460543262a93D43637) | [Ethereum](https://etherscan.io/token/0x6EF08F3F88Aa089A392fa2460543262a93D43637)
+
+-   **Ordinals**: [Xexadons Collection](https://ordinalswallet.com/collection/xexadons) - _One of the first 50,000 ordinals ever minted on Bitcoin, making it an ultra-rare piece of blockchain history_ 💎
+
+Worked on:
+
+-   🎮 **Core Protocol Development**:
+    -   Architected and deployed the **XEX token** system with _cross-chain functionality_;
+    -   Engineered the **Xexadon NFT** ecosystem spanning _6 different blockchains_;
+    -   Implemented _sophisticated_ bridging via LayerZero technology;
+-   🎯 **GameFi Integration**:
+    -   Developed **gasless gameplay** mechanics for _Web3 onboarding_;
+    -   Created _advanced_ dungeon-crawling reward systems;
+    -   Integrated **chain-specific** gameplay elements and rewards;
+-   💰 **DeFi Mechanics**:
+    -   Designed **scalable** staking systems with _boost multipliers_;
+    -   Implemented _efficient_ liquidity mining programs;
+    -   Created **protocol-owned** liquidity mechanisms;
+-   🌉 **Cross-Chain Solutions**:
+    -   Built _seamless_ migration contracts for multi-chain support;
+    -   Engineered **secure** bridging contracts for NFTs and tokens;
+    -   Developed _robust_ cross-chain validation systems;
+-   🎨 **Ordinals Implementation**:
+    -   Successfully deployed **50 Mythic Xexadons** as _Bitcoin Ordinals_;
+    -   Created _exclusive_ non-bridgeable assets for Bitcoin blockchain;
+    -   Engineered **unique** rarity tier for Bitcoin-native NFTs;
+
+## <img src="favicons/tierra.png" width="20" height="20" alt="Skills"> Skills and Expertise | [Tierra Project](https://tierraproject.io/) 🌍
+
+_Tierra is pioneering the SocialFi space by enabling creators to tokenize their online influence and transform social capital into tangible value through an innovative community-powered finance platform._
+
+### Worked On:
+
+-   🔄 **Protocol Migration**:
+
+    -   Ported Solana smart contracts to Ethereum/EVM Solidity;
+    -   Adapted program logic for EVM compatibility;
+    -   Optimized gas usage in cross-chain implementations;
+    -   Implemented beacon proxy patterns for upgradeable contracts;
+    -   Fully tested via forked chains the new factory and token contracts;
+
+-   🎯 **DeFi Mechanics**:
+
+    -   Created pump & dump prevention mechanisms via liquidity bootstrapping pools;
+    -   Implemented a proxy factory erc20 token contract contraction creation;
+    -   Developed fair launch tokenomics systems via bonding curves;
+    -   Built fee distribution mechanisms for bonding curves distribution;
+
+### <img src="favicons/naai.png" width="20" height="20" alt="AI"> [NEOAUDIT](htpts://www.neoaudit.ai/)
+
+_NEOAUDIT is an innovative AI-powered smart contract auditing platform that leverages advanced machine learning to provide automated security analysis and vulnerability detection for blockchain protocols._
+
+ERC20 with anti-sniper and anti-MEV mechanisms: [NAAI Token](https://etherscan.io/token/0x7865ec47bef9823ad0010c4970ed90a5e8107e53)
+
+### Worked On:
+
+-   🤖 **AI Smart Contract Auditing**:
+
+    -   Created **[NAAI Token](https://www.neoaudit.ai/)** - ERC20 OZ smart contract auditing platform\_ with **anti-sniper** and **anti-MEV** mechanisms;
+    -   Engineered _automated vulnerability scanning_ and **reporting system** with:
+        -   Real-time threat detection
+        -   Severity classification
+        -   Remediation suggestions
+    -   Developed **chain transaction scanner** and storage database;
+    -   Built _scalable_ verification API and database system handling **100,000+ verified contracts**;
+    -   Created a contract code local compiler for JSON and ASR structured generation;
+    -   Integrated multiple **static analysis tools** including _Slither_ for comprehensive auditing;
+    -   Architected **Telegram bot interface** enabling _real-time contract audits_;
+    -   Implemented sophisticated **ML models** for _pattern recognition_ and _vulnerability detection_ based on slither and other static analysis tools;
+    -   Pioneered **RAG (Retrieval Augmented Generation)** system for _intelligent code analysis_;
+    -   Designed **enterprise-grade** audit report system with _automated PDF generation_ using docker containers;
+
+-   🔍 **Audit Bot Features**:
+
+    -   Automated vulnerability detection and classification;
+    -   Gas optimization recommendations;
+    -   Contract verification and validation;
+    -   Contract compilation and structured generation;
+    -   Real-time monitoring and alerts;
+    -   Detailed security scoring system;
+    -   Custom audit report generation;
+
+-   🛡️ **Security Analysis**:
+
+    -   Pattern recognition for common vulnerabilities;
+    -   Static and dynamic code analysis;
+    -   Control flow verification;
+    -   Access control validation;
+    -   Reentrancy detection;
+    -   Integer overflow checks;
+    -   Contract compilation and function fuzzing;
+
+-   📊 **Reporting System**:
+
+    -   Comprehensive vulnerability assessment;
+    -   Risk severity classification;
+    -   Remediation recommendations;
+    -   Gas optimization suggestions;
+    -   Best practices compliance;
+    -   Historical audit tracking;
+
+# 🤖 Smart Contract & AI Development Experience
+
+-   **Blockchain AI Solutions**:
+
+    -   Developed AI-powered trading bots with advanced risk management systems;
+    -   Built enterprise-grade Telegram/Discord bots for DeFi protocol interactions;
+    -   Engineered automated market making (AMM) bots with price optimization;
+    -   Implemented sophisticated MEV protection and anti-frontrunning systems;
+    -   Designed crypto payment integration systems for subscription-based Telegram bots;
+
+-   **Smart Contract Development** 🔐:
+
+    -   Advanced expertise in `Solidity` development for EVM-compatible chains;
+    -   Maintained 100% test coverage using industry-standard tools (`hardhat`, `forge`);
+    -   Specialized in gas optimization and secure code refactoring;
+    -   Conducted regular security audits following industry best practices;
+    -   Innovated custom proxy patterns including advanced `Beacon Proxy` implementations;
+    -   Developed cross-chain compatible tokens and NFTs with bridge functionality;
+
+-   **DeFi Protocol Architecture** 💹:
+
+    -   Designed innovative bonding curve mechanisms for price stability;
+    -   Implemented optimized yield strategies with automated compounding features;
+    -   Created decentralized governance systems with quadratic voting mechanisms;
+    -   Architected efficient liquidity mining protocols with dynamic boost multipliers;
+
+-   **Multi-Chain Infrastructure** 🌉:
+    -   Developed secure atomic swap protocols for cross-chain asset transfers;
+    -   Built robust bridge contracts with multi-layer validation systems;
+    -   Engineered cross-chain messaging protocols with guaranteed message delivery;
+    -   Created standardized multi-chain token specifications and implementations;
+
+### Technical Expertise
+
+-   **AI Development**:
+    -   Created AI-powered smart contract vulnerability detection systems;
+    -   Developed ML models for real-time code analysis and price prediction;
+-   **Full-Stack Development**:
+    -   Expert in TypeScript/JavaScript/C++ ecosystem and Node.js backend development;
+    -   Professional experience with Cloud and large scale VoIP systems;
+-   **Systems Programming**:
+    -   Deep expertise in Solidity for blockchain development;
+    -   Deep expertise in C/C++ for VoIP systems;
+    -   Extensive experience building high-performance VoIP systems and softphones;
+    -   Extensive experience with E1, IAX and SIP protocols;
+-   **Database**:
+    -   Deep expertise in large scale MySQL and SQL Server databases;
+    -   Extensive experience in managmement of databases with terabytes of data;
+    -   Experience with hotbackup and replication of databases;
+
+### Security & Quality Assurance
+
+-   **Advanced Security Implementation**:
+    -   Developed sophisticated anti-bot and anti-MEV protection systems;
+    -   Created secure proxy patterns for upgradeable smart contracts;
+    -   Developed alarm and transaction monitoring systems via OpenZeppelin's `Defender`;
+-   **Comprehensive Testing**:
+    -   Implemented extensive test suites using Hardhat and Forge;
+    -   Specialized in gas optimization for cost-effective contract deployment;
+    -   Utilized forked chains for enhanced testing and security;
+
+## 🌟 Open Source Contributions
+
+-   📦 **Maintainer** of [`67` public repositories](https://github.com/bitdeep?tab=repositories) on GitHub to support the community;
+-   🤝 **Contributor** to major DeFi projects like:
+    -   `SushiSwap` 🍣
+    -   `Abracadabra Money` 🪄
+    -   `Equilibre Finance` ⚖️
+    -   `KoiPond` 🐟
+    -   `Camelot Exchange` 🏰
+    -   `Keller Finance` 💰
+    -   `NEOAUDIT` 🔍
+    -   `Tierra Project` 🌍
+    -   `XEX Labs` 🧪
+-   🛠️ Developed utilities and tools for:
+    -   Blockchain interactions
+    -   Web3 development
+    -   Smart contract deployment
+
+## 🤖 AI and Messaging Platform Integration
+
+### 🧠 AI-Powered Bots and DeFi Integration
+
+-   🔍 Developed AI-driven auditing systems for smart contracts that was used by NEOAUDIT via Telegram;
+-   🛠️ Created tools for fine-tuning GPT models and RAG-based chatting systems;
+
+### 🤝 Telegram and Discord Bot Development
+
+-   🤖 Designed custom bots for crypto communities;
+-   📊 Implemented real-time market data, wallet tracking, and automated support;
+
+### 🎯 AI-Enhanced Interactions
+
+-   🗣️ Integrated NLP for enhanced user experiences;
+-   ⚡ Provided intuitive interfaces through AI capabilities via Telegram, Discord and Web3;
+
+## 🏆 Key Projects
+
+| Project Type                            | Description                                                                            |
+| --------------------------------------- | -------------------------------------------------------------------------------------- |
+| 🌾 **Yield Farming & Liquidity Mining** | _Engineered high-performance protocols for maximizing DeFi returns_                    |
+| 🎨 **NFT Ecosystems**                   | _Developed marketplaces, minting platforms, and blockchain-based gaming solutions_     |
+| 💱 **Decentralized Exchanges (DEX)**    | _Contributed to projects like SushiSwap, enhancing liquidity and trading efficiency_   |
+| 🪙 **Advanced ERC20 Tokens**            | _Implemented tokens with sophisticated features, pushing the boundaries of tokenomics_ |
+| 🛡️ **Anti-Sniper & Anti-MEV Systems**   | _Designed robust protection mechanisms for secure trading environments_                |
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Vision-Blockchain%20Innovation-blue?style=flat-square&logo=blockchain.com" alt="Blockchain Innovation">
-  <img src="https://img.shields.io/badge/Mission-DeFi%20Revolution-green?style=flat-square&logo=bitcoin" alt="DeFi Revolution">
-  <img src="https://img.shields.io/badge/Passion-Smart%20Contracts-red?style=flat-square&logo=solidity" alt="Smart Contracts">
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=cloud&logoColor=white)
+![VOIP](https://img.shields.io/badge/VOIP-0088CC?style=for-the-badge&logo=voip&logoColor=white)
+
 </div>
 
+## ⛓️ Blockchain Protocols Experience
 
-# Contact
+-   🌐 **Layer 0**: Deployed `ERC20` and `ERC721` bridgeable tokens;
+-   ₿ **Bitcoin EVM's**: Worked on `EVM-compatible` Bitcoin-based protocols;
+-   🔄 **Harmony and Cosmos/EVM**: Experience with unique deployment processes and quirks;
 
-- 📧 **Email**: [as2742397@gmail.com](mailto:as2742397@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/wendelrpereira](https://www.linkedin.com/in/wendelrpereira/)  
-- 📱 **Telegram**: [@bitdeep](https://t.me/bitdeep)  
-- 🐦 **Twitter**: [@bitdeep_oficial](https://x.com/bitdeep_)  
-- 💬 **Discord**: **bitdeep**  
-- 🐙 **GitHub**: [github.com/bitdeep](https://github.com/bitdeep)
-- 🔗 **Zangi Link**: [1038908586](https://services.zangi.com/dl/conversation/1038908586)
-- 🔐 **Keybase**: [bitdeep](https://keybase.io/bitdeep)
-- 🎮 **Discord**: [bitdeep](https://discord.com/users/bitdeep)
+## 🚀 Innovating in the AI Age
 
+### 📚 Personalized Learning and Adaptability
 
+-   🔄 Continuously adapting skills through **self-driven** learning paths;
+-   🌱 Trying to beg early in new technologies;
+-   💡 Embracing new technologies and methodologies in **AI** and **blockchain**;
 
----
+### ✅ Test-Driven Development
 
-## 🚀 Summary: A Journey Through Blockchain & AI Evolution
+-   🎯 Prioritizing **test coverage** and **code quality**;
+-   🛠️ Utilizing `Hardhat` and `Forge` for comprehensive testing;
+-   🔒 Implementing advanced testing strategies via **forked chains**;
+
+### 📊 Data-Driven Approaches
+
+-   📈 Leveraging **analytics** for performance tracking and protocol optimization;
+-   🤖 Utilizing **AI** for real-time feedback and adaptive development strategies;
+
+### 🤝 Ethical Considerations
+
+-   🔐 Prioritizing **privacy protection** and bias-free technology implementations;
+-   🔍 Ensuring **transparent** AI-driven processes in all integrations;
+
+### 🔄 Flexibility and Scalability
+
+-   📦 Developing solutions that are easily **modifiable** and **scalable**
+-   🔄 Responding to changing technological needs with **innovative** approaches
+
+## 📱 Contact
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-Seasoned%20Developer-brightgreen?style=for-the-badge&logo=blockchain.com" alt="Seasoned Developer">
+
+[![Email](https://img.shields.io/badge/Email-as2742397%40gmail.com-red?style=flat-square&logo=gmail)](mailto:as2742397@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wendelrpereira-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/wendelrpereira)
+[![Telegram](https://img.shields.io/badge/Telegram-bitdeep-blue?style=flat-square&logo=telegram)](https://t.me/bitdeep)
+[![Twitter](https://img.shields.io/badge/Twitter-bitdeep__-blue?style=flat-square&logo=twitter)](https://twitter.com/bitdeep_)
+[![Discord](https://img.shields.io/badge/Discord-bitdeep-7289DA?style=flat-square&logo=discord)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bitdeep-black?style=flat-square&logo=github)](https://github.com/bitdeep)
+
 </div>
-
-### 🌟 Blockchain Pioneer
-- 🔗 Deep expertise in smart contracts and Bitcoin development
-- 🎭 Veteran of the **"colored coins"** and **"masternode"** revolution
-- 🦠 In the field even before _The Pandemic_
-
-### 💼 Professional Evolution
-1. 🏛️ **Bitcoin Era**
-   - Active participant in Bitcoin forums
-   - 💻 Contributed **C++/QT** expertise
-   - 🛡️ Assisted teams with masternodes and privacy coins
-
-2. 🌈 **Ethereum Transition**
-   - 🍣 Joined the **EVM** ecosystem during **SUSHI DEX** rise
-   - 🌾 Supported teams in the farming era
-
-3. 🔮 **Current Focus**
-   - 💹 Specializing in **decentralized finance (DeFi)**
-   - 🚀 Deploying cutting-edge protocols on EVM chains
-   - 🌌 Expertise in **Cosmos/EVM protocols**
-
-### 🤖 Innovative Integration
-- 🧠 Merging **AI and DeFi**
-- 🔬 Developed [$NAAI protocol](https://etherscan.io/token/0x7865ec47bef9823ad0010c4970ed90a5e8107e53#code)
-  - Created backend for "AI auditing contract" solution
-  - Implemented anti-snipe bot features in smart contracts
-
-### 🛡️ Security First Approach
-- ✅ Flawless track record: No hacked protocols
-- 🔍 Meticulous Solidity coding practices
-- 🧪 Ensures **full test coverage** before deployment
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code%20Quality-Exceptional-blue?style=for-the-badge&logo=checkmarx" alt="Code Quality">
-  <img src="https://img.shields.io/badge/Security-Paramount-red?style=for-the-badge&logo=hackerone" alt="Security">
-</div>
-
----
-
-## 🛠️ bitcoin
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-Expert-orange?style=for-the-badge&logo=bitcoin" alt="Bitcoin Expert">
-</div>
-
-### 🔗 Bitcoin Ecosystem Mastery
-- 🖼️ **Ordinals & NFTs**: Pioneered implementation of Bitcoin Ordinals protocol
-  - Developed custom solutions for minting and trading Bitcoin NFTs
-  - Create efficient scripts for Ordinal inscriptions
-- 🔍 **Transaction Monitoring**: Built robust Bitcoin transaction monitoring systems
-  - Implemented real-time mempool analysis for high-frequency trading bots
-  - Developed custom APIs for blockchain explorers with advanced filtering capabilities
-- 🧮 **UTXO Management**: Optimized UTXO selection algorithms for large-scale Bitcoin operations
-  - Implemented scripts for UTXO decoding and analysis for payment detection.
-  - Implemented scripts for payment confirmation from 1 to 3 confirmations.
-
-### 🏛️ DeFi Architecture
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Gas%20Optimization-Expert-yellow?style=for-the-badge&logo=ethereum" alt="Gas Optimization Expert">
-  <img src="https://img.shields.io/badge/Cross--Chain-Innovator-purple?style=for-the-badge&logo=chainlink" alt="Cross-Chain Innovator">
-</div>
-
-- 📊 **AMM Innovations**: 
-  - Implemented novel bonding curve algorithms for improved liquidity provision
-  - First on implementing bonding curve algorithms for evm tokens with auto-deployment, like `PupFun` on EVM/Cosmos.
-  - Developed hybrid AMM-order book systems for enhanced capital efficiency for arb bots to trade/arb on multiple chains using AI.
-- 🏦 **Yield Optimization**: 
-  - Created auto-compounding strategies with gas-efficient re-balancing 
-    mechanisms
-  - Implemented flash loan aggregators for arbitrage and liquidation protection
-- 🔐 **Governance Solutions**: 
-  - Developed quadratic voting systems for fair decision-making in DAOs
-  - Implemented time-locked, multi-sig treasury management contracts
-- 🌟 **Pioneering Staking on Harmony**: 
-  - Developed the first contract for staking assets on Harmony network
-  - Implemented innovative reward sharing and auto-reinvestment mechanisms
-  - Optimized gas efficiency for frequent reward distributions
-  - Integrated fail-safe measures to ensure users fund security during network instabilities
-
-
-### 🚀 Smart Contract Innovation
-- 🔒 **Security-First Approach**: 
-  - Implemented advanced anti-bot measures in token contracts.
-  - Developed custom proxy patterns for protocol-specific requirements.
-- 🌉 **Cross-Chain Solutions**: 
-  - Engineered atomic swap protocols for trust-less cross-chain transactions 
-    using L0.
-  - Implemented state-of-the-art bridge contracts for seamless asset transfers for ERC20 and ERC721.
-- 🤖 **AI Integration**: 
-  - Pioneered AI-driven smart contract auditing tools, was one of the first to use it on Bitcoin.
-  - Developed machine learning models for predicting gas prices and optimizing transaction timing
-
-### 💡 Smart Contract Development
-
-- Developed smart contracts for **DeFi protocols**, DEXs, betting platforms, and decentralized exchanges
-- Implemented complex interactions like **flash loans** and **atomic swaps**
-- Extensive experience with **proxy deployments** and upgradeable contracts
-- Implemented various proxy patterns including **UUPS**, **Transparent**, and **Beacon** proxies
-- Developed and audited proxy contracts for major DeFi protocols
-- Optimized gas costs for proxy implementations and upgrades, like, using beacons on gauges/pools deployments of factories.
-- Managed complex upgrade processes for live protocols with minimal downtime, _as it needs to be done with very-very care_.
-- Created custom proxy patterns for specific protocol requirements, such as developing a custom upgradeable beacon for [**Equilibre Finance**](https://equilibrefinance.com/) and other protocols
-
-- Created presale, airdrop, and farming contracts with advanced features, as demonstrated in multiple repositories on my [GitHub profile](https://github.com/bitdeep), such as:
-  - Sample public contracts in the [SolidityContracts](https://github.com/bitdeep/SolidityContracts) repository
-  - Token-related contracts in repositories like [xex-contracts](https://github.com/bitdeep/xex-contracts) and [token-deposit](https://github.com/bitdeep/token-deposit)
-  - Specialized contracts like the [timelock-multsig](https://github.com/bitdeep/timelock-multsig) combination, **as one of the biggest issues of our time is hack of protocols with multiple multisigs**.
-- Designed NFT auction and raffle systems, as demonstrated in various repositories on my [GitHub profile](https://github.com/bitdeep):
-  - Implemented smart contracts for NFT minting, trading, and auctions in projects like [nft-auction](https://github.com/bitdeep/nft-auction)
-  - Developed raffle systems with fair distribution mechanisms, such as [nft-raffle-contract](https://github.com/bitdeep/nft-raffle-contract)
-  - Created NFT-based systems for gaming and betting, as seen in [nft-game-engine](https://github.com/bitdeep/nft-game-engine)
-  - Implemented advanced features like preventing NFT reveals before minting in [nft-prevent-reveal-before-mint](https://github.com/bitdeep/nft-prevent-reveal-before-mint)
-  - Developed NFT-related projects with various functionalities, such as [zogue-collection](https://github.com/bitdeep/zogue-collection) and [mint-o-taurs](https://github.com/bitdeep/mint-o-taurs)
-- Developed DAO and treasury management contracts, as demonstrated in several repositories:
-  - [dao-contracts-dev](https://github.com/bitdeep/dao-contracts-dev): DAO treasure contracts
-  - [dao-team-presale](https://github.com/bitdeep/dao-team-presale): Team presale contracts and test-cases for DAO
-  - [farm-with-lock](https://github.com/bitdeep/farm-with-lock): Farming contract with a lock mechanism, often used in DAO ecosystems
-- Implemented various DAO-related functionalities, as demonstrated in several repositories:
-  - Voting mechanisms and governance systems in [dao-contracts-dev](https://github.com/bitdeep/dao-contracts-dev)
-  - Token distribution systems, including team presales in [dao-team-presale](https://github.com/bitdeep/dao-team-presale)
-  - Treasury management and allocation strategies
-  - Governance proposal creation and execution processes
-  - Farming contracts with lock mechanisms for token incentives in [farm-with-lock](https://github.com/bitdeep/farm-with-lock)
-- Applied security best practices:
-  - Implemented **reentrancy guards** and **access control mechanisms**
-  - Utilized **OpenZeppelin** libraries for standardized and audited security features
-  - Developed comprehensive test suites for smart contracts, as demonstrated in repositories like:
-    - [dao-team-presale](https://github.com/bitdeep/dao-team-presale): Includes test cases for team presale contracts
-    - [farm-with-lock](https://github.com/bitdeep/farm-with-lock): Features tests for farming contracts with lock mechanisms
-  - Implemented advanced security measures such as:
-    - Pause functionality for emergency situations
-    - Time-locked operations for critical functions
-    - Multi-signature requirements for high-value transactions
-  - Conducted thorough audits and code reviews, utilizing a combination of AI-assisted tools and manual expertise:
-    - Leveraged the [audit_gpt](https://github.com/bitdeep/audit_gpt) repository for AI-powered smart contract analysis
-    - Employed Google Gemini for advanced code review and potential vulnerability detection
-    - Use Aider for collaborative code review sessions and automated test case generation
-    - Complemented AI-assisted reviews with manual expert analysis to ensure comprehensive security assessments
-  - Implemented advanced anti-bot and anti-MEV measures in token contracts, as demonstrated in projects like [$NAAI protocol](https://etherscan.io/token/0x7865ec47bef9823ad0010c4970ed90a5e8107e53#code):
-    - Used dynamic buy and sell limits to prevent large-scale sniping and dumping
-    - Implemented cooldown periods between transactions to mitigate rapid trading by bots
-    - Used blacklisting functionality to restrict malicious actors
-    - Integrated anti-whale mechanisms to prevent market manipulation by large holders
-    - Implemented gas price limits to reduce the effectiveness of front-running attacks
-    - Used transfer delays for large transactions to give legitimate traders a fair chance
-  - Designed secure proxy patterns for upgradeable contracts, demonstrated in various DeFi protocol implementations:
-    - Deployed many Transparent and Beacon proxies for major protocols
-    - Implemented UUPS (Universal Upgradeable Proxy Standard) for gas-efficient upgrades
-    - Create custom proxy patterns for specific protocol requirements, such as a upgradeable beacon for Equilibre Finance
-    - Optimized gas costs for proxy implementations using techniques like minimal proxies (EIP-1167)
-    - Managed complex upgrade processes for live protocols with minimal downtime
-    - Implemented multi-step upgrade patterns for critical protocol changes, _like creating scripts to safe upgrade of gauges/pools of factories_.
-    - Created very complex scripts for proxy deployment and explorer proxy verification on various chains.
-  - Conducted thorough **unit and integration testing**:
-    - Developed comprehensive test suites using Hardhat and Forge, ensuring full coverage of smart contracts, as demonstrated in repositories like [dao-team-presale](https://github.com/bitdeep/dao-team-presale) and [farm-with-lock](https://github.com/bitdeep/farm-with-lock)
-    - Implemented advanced testing scenarios with forked mainnet environments to simulate real-world conditions, particularly useful for DeFi projects like [xex-contracts](https://github.com/bitdeep/xex-contracts)
-    - Utilized Tenderly for detailed transaction tracing and debugging in complex test cases, enhancing the robustness of contracts such as those in [nft-auction](https://github.com/bitdeep/nft-auction)
-    - Achieved consistently high test coverage rates, often exceeding 95% for critical contract functions, as seen in various DAO and NFT projects
-    - Created parameterized tests to cover a wide range of input scenarios efficiently, particularly useful in projects like [nft-raffle-contract](https://github.com/bitdeep/nft-raffle-contract)
-    - Implemented fuzz testing to identify edge cases and potential vulnerabilities, crucial for security-critical contracts like [timelock-multsig](https://github.com/bitdeep/timelock-multsig)
-    - Designed integration tests to verify contract interactions within the broader ecosystem, as demonstrated in complex projects like [sushiswapV1](https://github.com/bitdeep/sushiswapV1)
-    - Utilized time-manipulation techniques in Hardhat to test time-dependent contract logic, essential for projects with vesting or lock periods like [farm-with-lock](https://github.com/bitdeep/farm-with-lock)
-    - Implemented gas usage tracking and optimization based on test results, crucial for efficient contract deployment and execution across various projects _as some contracts may not deploy if gas is not optimized_.
-  - Optimized for **gas efficiency** and scalability:
-    - _most of the optimizations are in private contracts that I can share some if needed_.
-    - Use storage packing to reduce slot usage where applicable
-    - Applied `unchecked` blocks for safe arithmetic operations
-    - Implemented bit manipulation for efficient flag storage
-    - Use inline assembly for specific optimizations when necessary
-    - Employed proxy patterns to minimize deployment costs
-    - Utilized `calldata` for read-only function parameters
-    - Optimized loops by caching lengths and using pre-increment
-    - Leveraged short-circuiting in conditional statements
-- Stayed current with the latest **Solidity** features and best practices
-    - I tend to use the latest version of Solidity, as I like to use the latest features and best practices.
-    - Using the latest versions with good test-cases is very important to ensure the security of the contracts and to demonstrate good practices used in the protocol.
-
-# 🚀 Key Projects
-
-🌾 **Yield Farming & Liquidity Mining**
-   - Engineered high-performance protocols for maximizing DeFi returns
-
-🎨 **NFT Ecosystems**
-   - Developed cutting-edge marketplaces, minting platforms, and blockchain-based gaming solutions
-
-💱 **Decentralized Exchanges (DEX)**
-   - Contributed to major projects including SushiSwap, enhancing liquidity and trading efficiency
-
-💎 **Advanced ERC20 Tokens**
-   - Implemented tokens with sophisticated features, pushing the boundaries of tokenomics
-
-🛡️ **Anti-Sniper & Anti-MEV Systems**
-   - Designed robust protection mechanisms to ensure fair and secure trading environments
-
-🐕 **Innovative Memecoin Smart Contracts**
-   - Created contracts with unique tokenomics, blending fun with serious DeFi functionality
-
-🎲 **Decentralized Betting Platforms**
-   - Built secure and transparent betting systems on blockchain technology
-
-⚡ **Smart Contract Optimization**
-   - Specialized in refactoring and optimizing contracts for enhanced performance and reduced gas costs
-
-## 🔗 Bitcoin Development
-
-- **Bitcoin Chain Monitoring**: Developed systems to detect and decode transactions for:
-  - Payment tracking
-  - Ordinals transactions
-  - NFT minting on Bitcoin
-- **Transaction Analysis**: Created tools for in-depth examination of Bitcoin transactions
-- **Ordinals Protocol**: Implemented support for tracking and decoding Ordinals inscriptions
-- **NFT Minting Detection**: Developed algorithms to identify and analyze NFT minting activities on Bitcoin
-- **Real-time Blockchain Indexing**: Built efficient indexing systems for quick transaction lookups
-
-## 💻 Programming Languages & Technologies
-
-- **Solidity**: Expert-level smart contract development both for EVM and Cosmos/EVM protocols that has some quirks that needs to be handled.
-- **TypeScript**, **JavaScript**, **Node.js**: Full-stack Web3 development for backend and cloud services, most oriented for blockchain explorers and bots and AI services.
-- **React**: Frontend development for DApps, but not as much as I used to do, as I prefer to use **bootstrap+jquery** for my contract/ui tools.
-- **C/C++**: Extensive experience in blockchain core development and VoIP services as I worked many years in telecom background developing VoIP systems.
-- **Golang/Rust**: Prefer to avoid it and use C++/Qt for most of my projects.
-
-## 🤖 AI and Blockchain Integration
-
-- Developed an **AI-powered auditing system** for smart contract analysis
-- Created tools for fine-tuning GPT models for blockchain-specific tasks, most of the time using RAG from database data.
-- Implemented RAG-based document chatting systems for blockchain information, like, informing use about contract issues using api like fuzzers, goplus, slither and other tools.
-- Integrated AI capabilities with DeFi protocols for enhanced security and user experience, specially for auditing contracts.
-
-## 📞 VoIP Services Experience
-
-- Designed and implemented **VoIP protocols** and architectures for large scale VoIP systems for call center and fed-gov telecom projects.
-- Developed Softphone/VoIP applications using **C/C++**/Qt for various telecom projects.
-- Optimized VoIP performance and scalability for telecom projects to handle large scale state calling queues for public safety answering points (P3).
-- Troubleshot and resolved VoIP issues for telecom projects, specially in 3rd party integrations with VoIP vendors, enterprises and other telecom projects that needed state/wan/lan/internet connections.
-- Worked with VoIP hardware and software, like, Cisco, Avaya, Mitel, etc. for large-scale telecom projects and fed-gov projects.
-- Integrated VoIP systems with other telecommunications systems, like, CRM, billing, etc., specially to handle calls/queues/reports/analytics from CDR raw data with other tools like Microsoft Excel and Power BI.
-
-**🏗 VoIP Projects:**
-- **VoIP gateway** for PSTN/E1/IP to VoIP network connectivity
-- **VoIP softphone** application for mobile devices
-- **Softphone** application for desktops in C/pjsip/C++/Qt
-- **Large governamental VoIP call center solution** with call queuing, reporting, and analytics
-- VoIP system integration with **CRM system** with large governamental public services numbers with like 20.000 calls per day.
-
----
-
-## Docker, Git, and Cloud Services and Deployment
-
-## AWS
-
-> _On cloud services, I worked with various cloud providers to deploy telegram/discord bot and AI services and also to pre/pos process VoIP data, like calls audio conversion and transcription._
-
-- **Amazon ECS**: Managed container orchestration, specially for deploying my bots and AI services for large scale telegram/discord/telegram communities.
-- **AWS CodeCommit** and **CodePipeline**: Git repositories and CI/CD automation.
-- **AWS Lambda**: Used for deploying my bots and AI services for large scale telegram/discord/telegram communities.
-- **GCP Gemini**: Used gemini for large scale AI processing of audio and other data for BI systems.
-
-## Others
-
-- **DigitalOcean** and **Spaces**: normally I used it for some projects when asked by team, but not as much as AWS.
-- **Heroku Container Registry**, **Pipelines**, and **Review Apps**: normally I used it for some projects when asked by team, but not as much as AWS.
-
----
-
-## Blockchain Protocols
-
-Experience with various blockchain protocols:
-
-- **Layer 0**: Deployed both ERC20 and ERC721 bridgeable tokens for the xexlabs.com protocol, demonstrating proficiency in cross-chain interoperability and token standards implementation.
-- **Arbitrum**: Worked on layer 2 scaling solutions, also using L0 to bridge tokens to Arbitrum.
-- Other protocols: Familiar with a range of blockchain ecosystems and their unique features, as I worked for various teams deploying on Cosmos/EVM layers, there is very very specific quirks that needs to be handled during the deployment process.
-
----
-
-# Open Source Contributions
-
-- Actively maintain 67 public repositories on GitHub as an example for anyone to learn and use them, I keep them there just to help the community and to show my skills and knowledge.
-- Contribute to major DeFi projects like SushiSwap and Abracadabra Money, Camelot, KOI, and various other small protocols that I love to help, special on meme coins sector.
-- Develop and share utilities for blockchain interactions and Web3 development, like bots, explorers, etc.
-- Also, starting to contribute with AI NPM ecosystem.
-
-# AI and Messaging Platform Integration
-
-- **AI-Powered Bots and DeFi Integration**
-
-    - Developed an **AI-powered auditing system** for the **$NAAI protocol**, integrating AI capabilities with smart contract analysis.
-    - Created a sophisticated backend system to support AI-driven contract auditing, enhancing security in DeFi projects.
-    - Implemented advanced anti-snipe bot features in smart contracts, leveraging AI to detect and prevent malicious activities.
-    - Working on spare time:
-        - a `gc` cli tool to help with git workflow and to make it easier to contribute to open source projects.
-        - a `hn` cli tool to help with Hacker News that I use daily to keep up with the latest news in the tech world in a summarized way, telling me about author/site/points/comments and all the info in a summarized way to avoid scam and fake news.
-        - a `aic` ai-aider tool to help with AI coding, like, code review, test case generation, etc. Where I have a prompt to instruct aider to do things to me, specially passing the entire relevant code context to be more efficient.
-        - a `fs-ai` tool to help with file search in a summarized way, like, passing the dir, it gives me the summary of the files and sub dirs, and then I can choose to read more or not. And allow me to organize and index my files and folders.
-        - a `ai-yt` tool to help with YouTube, like, passing the url, it 
-          gives me the summary of the video, and then I can choose what 
-          language I want it to convert the audio, singing my author voice to 
-          the video (pt-br), so I can listen to the video in the car, etc.
-        - a `ai-podcast` tool to help with YouTube videos, like, passing the 
-          url, it gives me the summary of the video, and then I can choose 
-          what language I want it to convert the audio, singing personalized 
-          pt-br voice to the video (pt-br), so I can listen to the video in 
-          the car, etc., it auto-add to my podcast queue to I can listen while I do my tasks.
-        - a `gfs` a Google Chrome extension that auto-check all my links in Google search results, and tell me if it is a scam or not, and give me the summary of the page, and then I can choose to open the page or not.
-        - a `ai-v`, an ai-powered translation that perfectly translates my videos with voice cloning, so I can watch any video in any language as if it was in my language (pt-br), and the voice is in portuguese (br) using artist tone.
-        - a `ai-books-tts`, an ai-powered text to speech that perfectly converts any text to speech in any language with my own voice, I use it to convert papers/books to audiobooks and listen while I do my tasks/waking up.
-
-## Telegram Bot Development
-
-- Designed and built **custom Telegram bots** for crypto communities.
-- Implemented bots providing real-time market data, wallet tracking, and automated support.
-- Specially designed largue scale community bots with a queueing system to process large scale of prompts, like, airdrops, airdrop claim, voting, etc.
-- I have various samples to demonstrate my skills in telegram bots, like, airdrop bots, voting bots, etc.
-
-## Discord Bot Development
-
-- Developed **Discord bots** for DeFi projects.
-- Created bots facilitating user engagement, token distribution, and community management.
-- I have various samples to demonstrate my skills in discord bots, like, airdrop bots, voting bots, etc.
-
-## AI-Enhanced Interactions
-
-- Integrated AI-powered natural language processing to enhance bot interactions, specially using zod and gpt-4o to create schemas and validate data.
-- Provided more intuitive user experiences through AI capabilities, using RAG to answer questions and to provide more accurate and up-to-date information.
-- **Developed very personalized AI bots that can't be easily detected by 
-  users, specially for chat'ing when it'd need to know user preferences and to act as a good friend**.
-
-## Blockchain Integration
-
-- Created bots capable of executing on-chain transactions based on user commands, specially generating user wallet addresses and private keys to interact with the blockchain.
-- Both on discord/tg, allowed users to verify and claim airdrops, voting, etc. via bots.
-
-## Cross-Platform Solutions
-
-- Implemented solutions that synchronized data and functionality between Telegram, Discord, and web interfaces, specially for community bots that need to be available 24/7 on multiple platforms.
-- Integrated blockchain explorer and other APIs to allow users to check their balance, transactions, etc, directly from the bot interface.
-
-## Security
-
-- Developed secure authentication systems for bots.
-- Normally I use aws secure vault to store my bot tokens and keys, and to avoid any leaks.
-- Also, for local bots initialization, I tend to use local vaults npm modules to store my keys and tokens, and to avoid any leaks, as I can use dotenv, I avoid it on VPS/cloud services.
-- Ensured user data protection and prevented unauthorized access to sensitive functions by encrypting data at rest and implementing strict access controls using local vaults with PIN codes to avoid exploitation via looking for .env files.
-
----
-
-## Professional Experience
-
-## Camelot.exchange
-
-**Smart Contract Developer** | *Jan 2023 - Present*
-
-- Developed and implemented **airdrop functionality** for xGRAIL users.
-- Engineered internal protocol **plugins**, enhancing system flexibility and performance.
-- Collaborated with cross-functional teams to integrate new features and maintain code quality.
-
-## [KoiPond Launchpad](https://koipond.fi/)
-- Designed and implemented smart contracts for **auction mechanisms**, **gauge staking**.
-- Designed and implemented smart contracts for the Koi Launchpad platform, enabling new project launches and token sales in any ERC20 token.
-- Developed key features including:
-  - Tiered staking system for allocation priority
-  - Vesting schedules for token distributions
-  - Whitelist management and KYC integration
-  - Dynamic pricing mechanisms for token sales
-- Implemented security measures like access controls, rate limiting, and emergency pause functionality.
-- Collaborated with a frontend team to create intuitive interfaces for project creators and participants.
-- Conducted code reviews and optimizations to ensure gas efficiency and contract security.
-- Assisted in smart contract audits and addressed identified vulnerabilities.
-- Created test ui for contracts to allow users to test the contracts before the launch.
-
-[View Koi Launchpad on Twitter](https://x.com/KoiLaunchpad)
-
-## [Èquilibre Finance](https://equilibrefinance.com/)
-
-- Contributed to the development of core smart contracts for Èquilibre Finance's decentralized exchange (DEX) V2/V3 Uniswap-like platform.
-- Implemented and optimized key features including:
-  - Concentrated liquidity pools for efficient capital utilization
-  - Integration of V2/V3 pools-gauge contracts.
-  - Adaptive fee mechanism to dynamically adjust trading fees based on market conditions
-  - Voting and governance contracts for decentralized decision-making
-  - Use of beacon proxy's for pools/gauges.
-  - Refactor of immutable contracts to upgradeable contracts, using a transparent proxy pattern.
-- Developed and maintained subgraphs for efficient data indexing and querying of on-chain events. Specially for pools/gauges api stats.
-- Collaborated on the creation of a custom oracle solution for reliable token pricing on the Kava blockchain.
-- Created airdrop functionality and distribution mechanisms.
-- Implementation of veTokenomics, including contracts for token locking and voting escrow.
-- Worked on cross-chain bridging solutions to enhance interoperability with other blockchain networks.
-- Participated in code reviews, testing, and auditing processes to ensure contract security and reliability.
-- Assisted in the development of frontend interfaces and API services to interact with the smart contracts, providing cache and api endpoints to interact with the blockchain for fast ui response.
-
-## [Keller Finance](https://keller.finance/)
-
-- Contributed to the development of core smart contracts for Keller Finance's decentralized exchange (DEX) V2/V3 Uniswap-like platform.
-- Implemented and optimized key features including:
-  - Concentrated liquidity pools for efficient capital utilization
-  - Integration of V2/V3 pools-gauge contracts.
-  - Adaptive fee mechanism to dynamically adjust trading fees based on market conditions
-  - Voting and governance contracts for decentralized decision-making
-  - Use of beacon proxy's for pools/gauges.
-  - Refactor of immutable contracts to upgradeable contracts, using a transparent proxy pattern.
-- Developed and maintained subgraphs for efficient data indexing and querying of on-chain events. Specially for pools/gauges api stats.
-- Collaborated on the creation of a custom oracle solution for reliable token pricing on the Kava blockchain.
-- Created airdrop functionality and distribution mechanisms.
-- Implementation of veTokenomics, including contracts for token locking and voting escrow.
-- Worked on cross-chain bridging solutions to enhance interoperability with other blockchain networks.
-- Participated in code reviews, testing, and auditing processes to ensure contract security and reliability.
-- Assisted in the development of frontend interfaces and API services to interact with the smart contracts, providing cache and api endpoints to interact with the blockchain for fast ui response.
-
-## [Xexlabs](https://xexlabs.com/)
-
-- Developed and implemented smart contracts for the `xex` token and `xexadon` NFT ecosystem.
-- Engineered the `xexverse` Game Contracts, integrating XEX rewards with gamified mechanics.
-- Designed and implemented the Xexadon staking system with scalable rewards and boost mechanics.
-- Created the ELX Refinement system, a lottery-style token conversion mechanism with tiered risk categories.
-- Developed the ELX Jackpot system for luck-based token distribution with emission halving mechanics.
-- Implemented the ELX Staking system for earning protocol fees with time-based locking and boost multipliers.
-- Engineered migration contracts for transitioning from multi-chain to Fantom Sonic, including snapshot and airdrop functionalities.
-- Designed and implemented airdrop mechanisms for ELX token distribution to community members.
-- Contributed to additional features such as whitelisted DEX, AMM implementations, and daily FTM claiming mechanisms.
-
-Key Contributions:
-- Implemented complex boost mechanics across multiple systems, enhancing user engagement and rewards. The app can be seen here: https://elx-app.xexadons.com/
-- Designed flexible and upgradeable smart contract architectures to allow for future adjustments and improvements.
-- Integrated random number generation for fair lottery-style mechanics while ensuring system security.
-- Developed efficient snapshot and migration systems for seamless transition between blockchain networks.
-- Implemented tiered reward systems and time-based locking mechanisms to incentivize long-term participation.
-
-## [Camelot](https://camelot.finance/)
-
-- Contributed to the development of xGrail plugins for Camelot's ecosystem.
-- Designed and implemented airdrop contracts for token distribution.
-- Participated in code refactoring efforts to improve contract efficiency.
-
-## [Malt Protocol](https://github.com/MaltEcosystem/)
-
-- Upgraded smart contracts from Solidity version 0.7 to Solidity version 0.8.
-- Enhanced contract security and performance by utilizing Solidity v8's improved features and optimizations.
-- Refactor of test-cases from 0.7 to 0.8.
-- Collaborated with the development team to implement best practices and conducted thorough testing to validate upgrades.
