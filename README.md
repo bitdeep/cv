@@ -445,8 +445,8 @@ Experience with various blockchain protocols:
 
 ## [Xexlabs](https://xexlabs.com/)
 
-- Developed and implemented smart contracts for the XEX token and Xexadon NFT ecosystem.
-- Engineered the Xexaverse Game Contracts, integrating XEX rewards with gamified mechanics.
+- Developed and implemented smart contracts for the `xex` token and `xexadon` NFT ecosystem.
+- Engineered the `xexverse` Game Contracts, integrating XEX rewards with gamified mechanics.
 - Designed and implemented the Xexadon staking system with scalable rewards and boost mechanics.
 - Created the ELX Refinement system, a lottery-style token conversion mechanism with tiered risk categories.
 - Developed the ELX Jackpot system for luck-based token distribution with emission halving mechanics.
@@ -466,10 +466,11 @@ Key Contributions:
 
 - Contributed to the development of xGrail plugins for Camelot's ecosystem.
 - Designed and implemented airdrop contracts for token distribution.
-- Participated in code refactoring efforts to improve contract efficiency and 
+- Participated in code refactoring efforts to improve contract efficiency.
 
 ## [Malt Protocol](https://github.com/MaltEcosystem/)
 
-- Upgraded smart contracts from Solidity version 0.7 to Solidity version 0.8, ensuring compatibility and leveraging new features.
+- Upgraded smart contracts from Solidity version 0.7 to Solidity version 0.8.
 - Enhanced contract security and performance by utilizing Solidity v8's improved features and optimizations.
+- Refactor of test-cases from 0.7 to 0.8.
 - Collaborated with the development team to implement best practices and conducted thorough testing to validate upgrades.
