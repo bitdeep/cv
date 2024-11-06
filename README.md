@@ -107,7 +107,7 @@ _Equilibre Finance is a state-of-the-art AMM protocol that combines the best fea
     -   Engineered _efficient_ data structures for reduced storage costs;
     -   Implemented **comprehensive** testing suites with 100% coverage;
 
-### <img src="favicons/keller.svg" width="20" height="20" alt="Exchange"> [Keller Finance](https://kellerfinance.app/) | Senior Smart Contract Developer
+### <img src="favicons/keller.png" width="20" height="20" alt="Exchange"> [Keller Finance](https://kellerfinance.app/) | Senior Smart Contract Developer
 
 _Keller Finance is a cutting-edge AMM protocol that leverages concentrated liquidity pools and dynamic fee tiers to provide optimal trading conditions. The protocol aims to deliver institutional-grade DeFi infrastructure while maintaining accessibility for retail users._
 
